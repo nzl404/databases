@@ -14,4 +14,4 @@ Public datasets repository for bot features.
   - [tahlil.json](islamic/tahlil.json)
 
 - `jkt48/`
-  - [jkt48member.json](jkt48/jkt48member.json)
+  - [member.json](jkt48/member.json)
