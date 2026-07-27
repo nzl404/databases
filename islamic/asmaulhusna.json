@@ -1,0 +1,1190 @@
+[
+   {
+      "index": 1,
+      "latin": "Ar-Rahman",
+      "arabic": "الرَّحْمَٰنُ",
+      "translation": "Yang Maha Pengasih",
+      "explanation": "Dialah Allah Yang Maha Pengasih, yang rahmat dan kasih sayang-Nya meliputi seluruh makhluk di bumi dan langit tanpa terkecuali.",
+      "qs": {
+         "ref": "QS. Al-Fatihah: 1",
+         "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+         "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+      }
+   },
+   {
+      "index": 2,
+      "latin": "Ar-Rahim",
+      "arabic": "الرَّحِيمُ",
+      "translation": "Yang Maha Penyayang",
+      "explanation": "Dialah Allah Yang Maha Penyayang, yang memberikan rahmat khusus dan keabadian kenikmatan bagi hamba-hamba-Nya yang beriman di akhirat.",
+      "qs": {
+         "ref": "QS. Al-Fatihah: 3",
+         "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+         "translation": "Maha Pengasih lagi Maha Penyayang."
+      }
+   },
+   {
+      "index": 3,
+      "latin": "Al-Malik",
+      "arabic": "الْمَلِكُ",
+      "translation": "Yang Maha Merajai",
+      "explanation": "Dialah Allah Yang Maha Merajai, Pemilik kekuasaan mutlak atas seluruh alam semesta dan segala isinya.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 23",
+         "arabic": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ",
+         "translation": "Dialah Allah tidak ada tuhan selain Dia, Maharaja, Yang Mahasuci."
+      }
+   },
+   {
+      "index": 4,
+      "latin": "Al-Quddus",
+      "arabic": "الْقُدُّوسُ",
+      "translation": "Yang Maha Suci",
+      "explanation": "Dialah Allah Yang Maha Suci dari segala kekurangan, cela, dan keserupaan dengan makhluk-Nya.",
+      "qs": {
+         "ref": "QS. Al-Jumu'ah: 1",
+         "arabic": "يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ",
+         "translation": "Senantiasa bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi. Raja, Yang Mahasuci."
+      }
+   },
+   {
+      "index": 5,
+      "latin": "As-Salam",
+      "arabic": "السَّلَامُ",
+      "translation": "Yang Maha Memberi Kesejahteraan",
+      "explanation": "Dialah Allah Yang Maha Memberi Kesejahteraan, keselamatan, dan kedamaian bagi seluruh hamba-Nya.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 23",
+         "arabic": "السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ",
+         "translation": "Yang Maha Sejahtera, Yang Maha Memberikan Keamanan, Yang Maha Memelihara."
+      }
+   },
+   {
+      "index": 6,
+      "latin": "Al-Mu'min",
+      "arabic": "الْمُؤْمِنُ",
+      "translation": "Yang Maha Memberi Keamanan",
+      "explanation": "Dialah Allah Yang Maha Memberi Keamanan, tempat perlindungan dan kedamaian bagi hamba-Nya dari rasa takut.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 23",
+         "arabic": "الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ",
+         "translation": "Yang Maha Memberikan Keamanan, Yang Maha Memelihara, Yang Maha Perkasa."
+      }
+   },
+   {
+      "index": 7,
+      "latin": "Al-Muhaymin",
+      "arabic": "الْمُهَيْمِنُ",
+      "translation": "Yang Maha Memelihara",
+      "explanation": "Dialah Allah Yang Maha Memelihara, Mengawasi, dan Mengatur seluruh urusan makhluk-Nya secara sempurna.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 23",
+         "arabic": "الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ",
+         "translation": "Yang Maha Memelihara, Yang Maha Perkasa, Yang Maha Kuasa."
+      }
+   },
+   {
+      "index": 8,
+      "latin": "Al-'Aziz",
+      "arabic": "الْعَزِيزُ",
+      "translation": "Yang Maha Perkasa",
+      "explanation": "Dialah Allah Yang Maha Perkasa, Yang Maha Menang dan tidak dapat dikalahkan oleh siapapun.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 6",
+         "arabic": "لَا إِلَٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ",
+         "translation": "Tidak ada tuhan selain Dia, Yang Maha Perkasa lagi Maha Bijaksana."
+      }
+   },
+   {
+      "index": 9,
+      "latin": "Al-Jabbar",
+      "arabic": "الْجَبَّارُ",
+      "translation": "Yang Maha Gagah / Berkuasa",
+      "explanation": "Dialah Allah Yang Maha Gagah dan Berkuasa Memaksakan kehendak-Nya serta Memperbaiki kelemahan hamba-Nya.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 23",
+         "arabic": "الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ",
+         "translation": "Yang Maha Perkasa, Yang Maha Kuasa, Yang Memiliki Segala Keagungan."
+      }
+   },
+   {
+      "index": 10,
+      "latin": "Al-Mutakabbir",
+      "arabic": "الْمُتَكَبِّرُ",
+      "translation": "Yang Maha Megah",
+      "explanation": "Dialah Allah Yang Maha Pemilik Segala Keagungan dan Kebesaran yang tidak berhak dimiliki selain-Nya.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 23",
+         "arabic": "سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+         "translation": "Mahasuci Allah dari apa yang mereka persekutukan."
+      }
+   },
+   {
+      "index": 11,
+      "latin": "Al-Khaliq",
+      "arabic": "الْخَالِقُ",
+      "translation": "Yang Maha Pencipta",
+      "explanation": "Dialah Allah Yang Maha Pencipta, Yang Menciptakan segala sesuatu dari tiada menjadi ada.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 24",
+         "arabic": "هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ",
+         "translation": "Dialah Allah Yang Menciptakan, Yang Mengadakan, Yang Membentuk Rupa."
+      }
+   },
+   {
+      "index": 12,
+      "latin": "Al-Bari'",
+      "arabic": "الْبَارِئُ",
+      "translation": "Yang Maha Melepaskan",
+      "explanation": "Dialah Allah Yang Maha Mengadakan dan Merancang pembuatan ciptaan-Nya tanpa cacat.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 24",
+         "arabic": "الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ",
+         "translation": "Yang Menciptakan, Yang Mengadakan, Yang Membentuk Rupa."
+      }
+   },
+   {
+      "index": 13,
+      "latin": "Al-Musawwir",
+      "arabic": "الْمُصَوِّرُ",
+      "translation": "Yang Maha Membentuk Rupa",
+      "explanation": "Dialah Allah Yang Maha Membentuk Rupa dan memberi rupa unik pada setiap makhluk ciptaan-Nya.",
+      "qs": {
+         "ref": "QS. Al-Hasyr: 24",
+         "arabic": "لَهُ الْأَسْمَاءُ الْحُسْنَىٰ",
+         "translation": "Dialah yang memiliki Asmaul Husna (nama-nama yang indah)."
+      }
+   },
+   {
+      "index": 14,
+      "latin": "Al-Ghaffar",
+      "arabic": "الْغَفَّارُ",
+      "translation": "Yang Maha Pengampun",
+      "explanation": "Dialah Allah Yang Maha Pengampun, Yang Berulang kali Mengampuni dosa hamba-Nya yang bertaubat.",
+      "qs": {
+         "ref": "QS. Nuh: 10",
+         "arabic": "اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+         "translation": "Mohonlah ampunan kepada Tuhanmu, sungguh Dia Maha Pengampun."
+      }
+   },
+   {
+      "index": 15,
+      "latin": "Al-Qahhar",
+      "arabic": "الْقَهَّارُ",
+      "translation": "Yang Maha Menundukkan",
+      "explanation": "Dialah Allah Yang Maha Menundukkan segala sesuatu di bawah kekuasaan dan kehendak-Nya.",
+      "qs": {
+         "ref": "QS. Az-Zumar: 4",
+         "arabic": "هُوَ اللَّهُ الْوَاحِدُ الْقَهَّارُ",
+         "translation": "Dialah Allah Yang Maha Esa lagi Maha Menundukkan."
+      }
+   },
+   {
+      "index": 16,
+      "latin": "Al-Wahhab",
+      "arabic": "الْوَهَّابُ",
+      "translation": "Yang Maha Pemberi Karunia",
+      "explanation": "Dialah Allah Yang Maha Pemberi Karunia tanpa meminta balasan dan tanpa batas.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 8",
+         "arabic": "إِنَّكَ أَنْتَ الْوَهَّابُ",
+         "translation": "Sungguh Engkau Maha Pemberi Karunia."
+      }
+   },
+   {
+      "index": 17,
+      "latin": "Ar-Razzaq",
+      "arabic": "الرَّزَّاقُ",
+      "translation": "Yang Maha Pemberi Rezeki",
+      "explanation": "Dialah Allah Yang Maha Pemberi Rezeki bagi seluruh makhluk yang hidup di muka bumi.",
+      "qs": {
+         "ref": "QS. Adz-Dzariyat: 58",
+         "arabic": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+         "translation": "Sungguh Allah Dialah Pemberi Rezeki Yang Mempunyai Kekuatan lagi Sangat Kokoh."
+      }
+   },
+   {
+      "index": 18,
+      "latin": "Al-Fattah",
+      "arabic": "الْفَتَّاحُ",
+      "translation": "Yang Maha Pembuka Rahmat",
+      "explanation": "Dialah Allah Yang Maha Pembuka pintu rahmat, rezeki, dan jalan keluar dari setiap kesulitan.",
+      "qs": {
+         "ref": "QS. Saba': 26",
+         "arabic": "وَهُوَ الْفَتَّاحُ الْعَلِيمُ",
+         "translation": "Dan Dialah Maha Pembuka lagi Maha Mengetahui."
+      }
+   },
+   {
+      "index": 19,
+      "latin": "Al-'Alim",
+      "arabic": "الْعَلِيمُ",
+      "translation": "Yang Maha Mengetahui",
+      "explanation": "Dialah Allah Yang Maha Mengetahui segala sesuatu, baik yang tersembunyi maupun yang nyata.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 115",
+         "arabic": "إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ",
+         "translation": "Sungguh Allah Maha Luas lagi Maha Mengetahui."
+      }
+   },
+   {
+      "index": 20,
+      "latin": "Al-Qabidh",
+      "arabic": "الْقَابِضُ",
+      "translation": "Yang Maha Menyempitkan",
+      "explanation": "Dialah Allah Yang Maha Menyempitkan rezeki atau jiwa bagi siapa yang Dikehendaki-Nya menurut hikmah-Nya.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 245",
+         "arabic": "وَاللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ",
+         "translation": "Dan Allah menyempitkan dan melapangkan (rezeki) dan kepada-Nyalah kamu dikembalikan."
+      }
+   },
+   {
+      "index": 21,
+      "latin": "Al-Basit",
+      "arabic": "الْبَاسِطُ",
+      "translation": "Yang Maha Melapangkan",
+      "explanation": "Dialah Allah Yang Maha Melapangkan rezeki, ilmu, dan kebahagiaan bagi hamba-Nya.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 245",
+         "arabic": "وَاللَّهُ يَقْبِضُ وَيَبْسُطُ",
+         "translation": "Dan Allah menyempitkan dan melapangkan rezeki."
+      }
+   },
+   {
+      "index": 22,
+      "latin": "Al-Khafidz",
+      "arabic": "الْخَافِضُ",
+      "translation": "Yang Maha Merendahkan",
+      "explanation": "Dialah Allah Yang Maha Merendahkan derajat orang-orang yang sombong dan kafir.",
+      "qs": {
+         "ref": "QS. Al-Waqi'ah: 3",
+         "arabic": "خَافِضَةٌ رَافِعَةٌ",
+         "translation": "(Kejadian kiamat itu) merendahkan (satu golongan) dan meninggikan (golongan yang lain)."
+      }
+   },
+   {
+      "index": 23,
+      "latin": "Ar-Rafi'",
+      "arabic": "الرَّافِعُ",
+      "translation": "Yang Maha Meninggikan",
+      "explanation": "Dialah Allah Yang Maha Meninggikan derajat orang-orang yang beriman dan berilmu.",
+      "qs": {
+         "ref": "QS. Al-Mujadilah: 11",
+         "arabic": "يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ",
+         "translation": "Allah akan meninggikan orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu pengetahuan beberapa derajat."
+      }
+   },
+   {
+      "index": 24,
+      "latin": "Al-Mu'izz",
+      "arabic": "الْمُعِزُّ",
+      "translation": "Yang Maha Memuliakan",
+      "explanation": "Dialah Allah Yang Maha Memuliakan siapa saja yang Dikehendaki-Nya dengan ketaatan.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 26",
+         "arabic": "وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ",
+         "translation": "Engkau memuliakan orang yang Engkau kehendaki dan Engkau menghinakan orang yang Engkau kehendaki."
+      }
+   },
+   {
+      "index": 25,
+      "latin": "Al-Mudzill",
+      "arabic": "الْمُذِلُّ",
+      "translation": "Yang Maha Menghinakan",
+      "explanation": "Dialah Allah Yang Maha Menghinakan siapa saja yang bermaksiat dan menentang perintah-Nya.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 26",
+         "arabic": "وَتُذِلُّ مَنْ تَشَاءُ بِيَدِكَ الْخَيْرُ",
+         "translation": "Dan Engkau menghinakan orang yang Engkau kehendaki. Di tangan-Mulah segala kebaikan."
+      }
+   },
+   {
+      "index": 26,
+      "latin": "As-Sami'",
+      "arabic": "السَّمِيعُ",
+      "translation": "Yang Maha Mendengar",
+      "explanation": "Dialah Allah Yang Maha Mendengar segala bisikan, do'a, dan ucapan hamba-Nya tanpa terkecuali.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 127",
+         "arabic": "إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+         "translation": "Sungguh Engkau Maha Mendengar lagi Maha Mengetahui."
+      }
+   },
+   {
+      "index": 27,
+      "latin": "Al-Bashir",
+      "arabic": "الْبَصِيرُ",
+      "translation": "Yang Maha Melihat",
+      "explanation": "Dialah Allah Yang Maha Melihat segala perbuatan hamba-Nya, baik di kegelapan malam maupun siang hari.",
+      "qs": {
+         "ref": "QS. Al-Hujurat: 18",
+         "arabic": "وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ",
+         "translation": "Dan Allah Maha Melihat apa yang kamu kerjakan."
+      }
+   },
+   {
+      "index": 28,
+      "latin": "Al-Hakam",
+      "arabic": "الْحَكَمُ",
+      "translation": "Yang Maha Menetapkan Hukum",
+      "explanation": "Dialah Allah Yang Maha Menetapkan Hukum dan Hakim yang adil atas seluruh perkara.",
+      "qs": {
+         "ref": "QS. Al-An'am: 114",
+         "arabic": "أَفَغَيْرَ اللَّهِ أَبْتَغِي حَكَمًا",
+         "translation": "Maka patutkah aku mencari hakim selain daripada Allah."
+      }
+   },
+   {
+      "index": 29,
+      "latin": "Al-'Adl",
+      "arabic": "الْعَدْلُ",
+      "translation": "Yang Maha Adil",
+      "explanation": "Dialah Allah Yang Maha Adil dalam segala keputusan dan perbuatan-Nya.",
+      "qs": {
+         "ref": "QS. An-Nahl: 90",
+         "arabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ",
+         "translation": "Sungguh Allah menyuruh (kamu) berlaku adil dan berbuat kebajikan."
+      }
+   },
+   {
+      "index": 30,
+      "latin": "Al-Lathif",
+      "arabic": "اللَّطِيفُ",
+      "translation": "Yang Maha Lembut",
+      "explanation": "Dialah Allah Yang Maha Lembut dan Maha Halus dalam memberikan kebaikan kepada hamba-Nya.",
+      "qs": {
+         "ref": "QS. Al-An'am: 103",
+         "arabic": "وَهُوَ اللَّطِيفُ الْخَبِيرُ",
+         "translation": "Dan Dialah Yang Maha Lembut lagi Maha Mengetahui."
+      }
+   },
+   {
+      "index": 31,
+      "latin": "Al-Khabir",
+      "arabic": "الْخَبِيرُ",
+      "translation": "Yang Maha Mengenal",
+      "explanation": "Dialah Allah Yang Maha Mengenal dan Mengetahui rahasia yang paling tersembunyi.",
+      "qs": {
+         "ref": "QS. Al-Mulk: 14",
+         "arabic": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ",
+         "translation": "Apakah Allah Yang menciptakan itu tidak mengetahui? Dan Dia Maha Lembut lagi Maha Mengetahui."
+      }
+   },
+   {
+      "index": 32,
+      "latin": "Al-Halim",
+      "arabic": "الْحَلِيمُ",
+      "translation": "Yang Maha Penyantun",
+      "explanation": "Dialah Allah Yang Maha Penyantun, Yang tidak tergesa-gesa memberikan hukuman bagi pelaku dosa.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 225",
+         "arabic": "وَاللَّهُ غَفُورٌ حَلِيمٌ",
+         "translation": "Dan Allah Maha Pengampun lagi Maha Penyantun."
+      }
+   },
+   {
+      "index": 33,
+      "latin": "Al-'Adzim",
+      "arabic": "الْعَظِيمُ",
+      "translation": "Yang Maha Agung",
+      "explanation": "Dialah Allah Yang Maha Agung, Pemilik keagungan yang tidak bertepi.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 255",
+         "arabic": "وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+         "translation": "Dan Dialah Yang Mahatinggi lagi Mahaagung."
+      }
+   },
+   {
+      "index": 34,
+      "latin": "Al-Ghafur",
+      "arabic": "الْغَفُورُ",
+      "translation": "Yang Maha Pengampun",
+      "explanation": "Dialah Allah Yang Maha Pengampun dosa-dosa hamba-Nya dan Menutupi kejelekan mereka.",
+      "qs": {
+         "ref": "QS. Al-Hijr: 49",
+         "arabic": "نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ",
+         "translation": "Kabarkanlah kepada hamba-hamba-Ku, bahwa sesungguhnya Akulah Yang Maha Pengampun lagi Maha Penyayang."
+      }
+   },
+   {
+      "index": 35,
+      "latin": "Asy-Syakur",
+      "arabic": "الشَّكُورُ",
+      "translation": "Yang Maha Membalas Budi",
+      "explanation": "Dialah Allah Yang Maha Membalas Budi, yang memberi pahala berlipat ganda atas amalan kecil hamba-Nya.",
+      "qs": {
+         "ref": "QS. Fatir: 30",
+         "arabic": "إِنَّهُ غَفُورٌ شَكُورٌ",
+         "translation": "Sungguh Allah Maha Pengampun lagi Maha Membalas Budi."
+      }
+   },
+   {
+      "index": 36,
+      "latin": "Al-'Aliyy",
+      "arabic": "الْعَلِيُّ",
+      "translation": "Yang Maha Tinggi",
+      "explanation": "Dialah Allah Yang Maha Tinggi martabat, kedudukan, dan kekuasaan-Nya di atas seluruh makhluk.",
+      "qs": {
+         "ref": "QS. An-Nisa': 34",
+         "arabic": "إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+         "translation": "Sungguh Allah Maha Tinggi lagi Maha Besar."
+      }
+   },
+   {
+      "index": 37,
+      "latin": "Al-Kabir",
+      "arabic": "الْكَبِيرُ",
+      "translation": "Yang Maha Besar",
+      "explanation": "Dialah Allah Yang Maha Besar, Kebesaran-Nya mengatasi segala sesuatu.",
+      "qs": {
+         "ref": "QS. Ar-Ra'd: 9",
+         "arabic": "الْكَبِيرُ الْمُتَعَالِ",
+         "translation": "Yang Maha Besar lagi Maha Tinggi."
+      }
+   },
+   {
+      "index": 38,
+      "latin": "Al-Hafidzh",
+      "arabic": "الْحَفِيظُ",
+      "translation": "Yang Maha Memelihara",
+      "explanation": "Dialah Allah Yang Maha Memelihara dan Menjaga seluruh alam serta amalan hamba-Nya.",
+      "qs": {
+         "ref": "QS. Hud: 57",
+         "arabic": "إِنَّ رَبِّي عَلَىٰ كُلِّ شَيْءٍ حَفِيظٌ",
+         "translation": "Sungguh Tuhanku Maha Memelihara segala sesuatu."
+      }
+   },
+   {
+      "index": 39,
+      "latin": "Al-Muqit",
+      "arabic": "الْمُقِيتُ",
+      "translation": "Yang Maha Pemberi Kecukupan",
+      "explanation": "Dialah Allah Yang Maha Pemberi Kecukupan rezeki dan kekuatan bagi segenap makhluk.",
+      "qs": {
+         "ref": "QS. An-Nisa': 85",
+         "arabic": "وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقِيتًا",
+         "translation": "Dan Allah Maha Kuasa / Pemberi Kecukupan atas segala sesuatu."
+      }
+   },
+   {
+      "index": 40,
+      "latin": "Al-Hasib",
+      "arabic": "الْحَسِيبُ",
+      "translation": "Yang Maha Membuat Perhitungan",
+      "explanation": "Dialah Allah Yang Maha Membuat Perhitungan atas amalan hamba-Nya secara teliti.",
+      "qs": {
+         "ref": "QS. An-Nisa': 6",
+         "arabic": "وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+         "translation": "Dan cukuplah Allah sebagai Pembuat Perhitungan."
+      }
+   },
+   {
+      "index": 41,
+      "latin": "Al-Jalil",
+      "arabic": "الْجَلِيلُ",
+      "translation": "Yang Maha Mulia",
+      "explanation": "Dialah Allah Yang Maha Pemilik Sifat Кеаgungan, Kemuliaan, dan Kebesaran.",
+      "qs": {
+         "ref": "QS. Ar-Rahman: 27",
+         "arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+         "translation": "Dan tetap kekal Wajah Tuhanmu yang mempunyai Keagungan dan Kemuliaan."
+      }
+   },
+   {
+      "index": 42,
+      "latin": "Al-Karim",
+      "arabic": "الْكَرِيمُ",
+      "translation": "Yang Maha Pemurah",
+      "explanation": "Dialah Allah Yang Maha Pemurah lagi Maha Mulia, memberi tanpa batas dan tidak pernah mengecewakan.",
+      "qs": {
+         "ref": "QS. Al-Infitar: 6",
+         "arabic": "يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+         "translation": "Wahai manusia, apakah yang telah memperdayakan kamu (berbuat dosa) terhadap Tuhanmu Yang Maha Pemurah."
+      }
+   },
+   {
+      "index": 43,
+      "latin": "Ar-Raqib",
+      "arabic": "الرَّقِيبُ",
+      "translation": "Yang Maha Mengawasi",
+      "explanation": "Dialah Allah Yang Maha Mengawasi setiap gerak-gerik dan terdetiknya hati hamba-Nya.",
+      "qs": {
+         "ref": "QS. An-Nisa': 1",
+         "arabic": "إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+         "translation": "Sungguh Allah selalu mengawasi kamu."
+      }
+   },
+   {
+      "index": 44,
+      "latin": "Al-Mujib",
+      "arabic": "الْمُجِيبُ",
+      "translation": "Yang Maha Mengabulkan",
+      "explanation": "Dialah Allah Yang Maha Mengabulkan doa-doa dan permohonan hamba-Nya yang berdoa.",
+      "qs": {
+         "ref": "QS. Hud: 61",
+         "arabic": "إِنَّ رَبِّي قَرِيبٌ مُجِيبٌ",
+         "translation": "Sungguh Tuhanku amat dekat lagi memperkenankan (doa hamba-Nya)."
+      }
+   },
+   {
+      "index": 45,
+      "latin": "Al-Wasi'",
+      "arabic": "الْوَاسِعُ",
+      "translation": "Yang Maha Luas",
+      "explanation": "Dialah Allah Yang Maha Luas rahmat, ilmu, ampunan, dan karunia-Nya.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 268",
+         "arabic": "وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+         "translation": "Dan Allah Maha Luas (karunia-Nya) lagi Maha Mengetahui."
+      }
+   },
+   {
+      "index": 46,
+      "latin": "Al-Hakim",
+      "arabic": "الْحَكِيمُ",
+      "translation": "Yang Maha Bijaksana",
+      "explanation": "Dialah Allah Yang Maha Bijaksana dalam segala ciptaan, takdir, dan hukum-Nya.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 129",
+         "arabic": "إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ",
+         "translation": "Sungguh Engkaulah Yang Maha Perkasa lagi Maha Bijaksana."
+      }
+   },
+   {
+      "index": 47,
+      "latin": "Al-Wadud",
+      "arabic": "الْوَدُودُ",
+      "translation": "Yang Maha Mengasihi",
+      "explanation": "Dialah Allah Yang Maha Mengasihi dan Mencintai hamba-hamba-Nya yang beriman.",
+      "qs": {
+         "ref": "QS. Al-Buruj: 14",
+         "arabic": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+         "translation": "Dialah Yang Maha Pengampun lagi Maha Pengasih."
+      }
+   },
+   {
+      "index": 48,
+      "latin": "Al-Majid",
+      "arabic": "الْمَجِيدُ",
+      "translation": "Yang Maha Mulia",
+      "explanation": "Dialah Allah Yang Maha Mulia dan Agung kehormatan serta kebaikan-Nya.",
+      "qs": {
+         "ref": "QS. Hud: 73",
+         "arabic": "إِنَّهُ حَمِيدٌ مَجِيدٌ",
+         "translation": "Sungguh Dia Maha Terpuji lagi Maha Mulia."
+      }
+   },
+   {
+      "index": 49,
+      "latin": "Al-Ba'its",
+      "arabic": "الْبَاعِثُ",
+      "translation": "Yang Maha Membangkitkan",
+      "explanation": "Dialah Allah Yang Maha Membangkitkan seluruh manusia dari alam kubur pada hari kiamat.",
+      "qs": {
+         "ref": "QS. Al-Hajj: 7",
+         "arabic": "وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي الْقُبُورِ",
+         "translation": "Dan sungguh Allah akan membangkitkan semua orang yang di dalam kubur."
+      }
+   },
+   {
+      "index": 50,
+      "latin": "Asy-Syahid",
+      "arabic": "الشَّهِيدُ",
+      "translation": "Yang Maha Menyaksikan",
+      "explanation": "Dialah Allah Yang Maha Menyaksikan segala sesuatu, tidak ada yang tersembunyi dari pengawasan-Nya.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 98",
+         "arabic": "وَاللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ",
+         "translation": "Dan Allah Maha Menyaksikan apa yang kamu kerjakan."
+      }
+   },
+   {
+      "index": 51,
+      "latin": "Al-Haqq",
+      "arabic": "الْحَقُّ",
+      "translation": "Yang Maha Benar",
+      "explanation": "Dialah Allah Yang Maha Benar dalam kebenaran zat-Nya, janji-Nya, dan firman-Nya.",
+      "qs": {
+         "ref": "QS. Thaha: 114",
+         "arabic": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ",
+         "translation": "Maka Mahatinggi Allah Raja Yang Sebenar-benarnya."
+      }
+   },
+   {
+      "index": 52,
+      "latin": "Al-Wakil",
+      "arabic": "الْوَكِيلُ",
+      "translation": "Yang Maha Memelihara / Penyerahan",
+      "explanation": "Dialah Allah Yang Maha Memelihara dan tempat berserah diri yang paling sempurna.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 173",
+         "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+         "translation": "Cukuplah Allah menjadi Penolong kami dan Allah adalah sebaik-baik Pelindung."
+      }
+   },
+   {
+      "index": 53,
+      "latin": "Al-Qawiyy",
+      "arabic": "الْقَوِيُّ",
+      "translation": "Yang Maha Kuat",
+      "explanation": "Dialah Allah Yang Maha Kuat, Kekuatan-Nya sempurna tanpa ada kelemahan.",
+      "qs": {
+         "ref": "QS. Al-Anfal: 52",
+         "arabic": "إِنَّ اللَّهَ قَوِيٌّ شَدِيدُ الْعِقَابِ",
+         "translation": "Sungguh Allah Maha Kuat lagi amat keras siksaan-Nya."
+      }
+   },
+   {
+      "index": 54,
+      "latin": "Al-Matin",
+      "arabic": "الْمَتِينُ",
+      "translation": "Yang Maha Kokoh",
+      "explanation": "Dialah Allah Yang Maha Kokoh, tidak pernah merasa lelah dan tidak tergoyahkan.",
+      "qs": {
+         "ref": "QS. Adz-Dzariyat: 58",
+         "arabic": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+         "translation": "Sungguh Allah Dialah Pemberi rezeki Yang Mempunyai Kekuatan lagi Sangat Kokoh."
+      }
+   },
+   {
+      "index": 55,
+      "latin": "Al-Waliyy",
+      "arabic": "الْوَلِيُّ",
+      "translation": "Yang Maha Melindungi",
+      "explanation": "Dialah Allah Yang Maha Melindungi dan Menolong orang-orang yang beriman.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 257",
+         "arabic": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا",
+         "translation": "Allah Pelindung orang-orang yang beriman."
+      }
+   },
+   {
+      "index": 56,
+      "latin": "Al-Hamid",
+      "arabic": "الْحَمِيدُ",
+      "translation": "Yang Maha Terpuji",
+      "explanation": "Dialah Allah Yang Maha Terpuji atas segala sifat, perbuatan, dan nikmat-Nya.",
+      "qs": {
+         "ref": "QS. Ibrahim: 1",
+         "arabic": "إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ",
+         "translation": "Ke jalan Tuhan Yang Maha Perkasa lagi Maha Terpuji."
+      }
+   },
+   {
+      "index": 57,
+      "latin": "Al-Muhshi",
+      "arabic": "الْمُحْصِي",
+      "translation": "Yang Maha Menghitung",
+      "explanation": "Dialah Allah Yang Maha Menghitung segala amalan dan ciptaan tanpa ada yang terlewatkan.",
+      "qs": {
+         "ref": "QS. Maryam: 94",
+         "arabic": "لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا",
+         "translation": "Sesungguhnya Allah telah menentukan jumlah mereka dan menghitung mereka dengan hitungan yang teliti."
+      }
+   },
+   {
+      "index": 58,
+      "latin": "Al-Mubdi'",
+      "arabic": "الْمُبْدِئُ",
+      "translation": "Yang Maha Memulai",
+      "explanation": "Dialah Allah Yang Maha Memulai penciptaan makhluk pertama kali dari ketiadaan.",
+      "qs": {
+         "ref": "QS. Yunus: 34",
+         "arabic": "اللَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ",
+         "translation": "Allah memulai penciptaan makhluk, kemudian mengulanginya kembali."
+      }
+   },
+   {
+      "index": 59,
+      "latin": "Al-Mu'id",
+      "arabic": "الْمُعِيدُ",
+      "translation": "Yang Maha Mengembalikan",
+      "explanation": "Dialah Allah Yang Maha Mengembalikan kehidupan setelah kematian pada hari kiamat.",
+      "qs": {
+         "ref": "QS. Al-Buruj: 13",
+         "arabic": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+         "translation": "Sungguh Dialah Yang memulai penciptaan dan mengembalikannya (menghidupkannya kembali)."
+      }
+   },
+   {
+      "index": 60,
+      "latin": "Al-Muhyi",
+      "arabic": "الْمُحْيِي",
+      "translation": "Yang Maha Menghidupkan",
+      "explanation": "Dialah Allah Yang Maha Menghidupkan segala sesuatu dan memberi roh kehidupan.",
+      "qs": {
+         "ref": "QS. Ar-Rum: 50",
+         "arabic": "إِنَّ ذَٰلِكَ لَمُحْيِي الْمَوْتَىٰ",
+         "translation": "Sungguh (Allah) yang demikian itu pasti dapat menghidupkan orang-orang yang mati."
+      }
+   },
+   {
+      "index": 61,
+      "latin": "Al-Mumit",
+      "arabic": "الْمُمِيتُ",
+      "translation": "Yang Maha Mematikan",
+      "explanation": "Dialah Allah Yang Maha Mematikan setiap makhluk yang bernyawa sesuai ajalnya.",
+      "qs": {
+         "ref": "QS. Al-Mu'minun: 14",
+         "arabic": "وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ",
+         "translation": "Dan Dialah yang menghidupkan dan mematikan."
+      }
+   },
+   {
+      "index": 62,
+      "latin": "Al-Hayy",
+      "arabic": "الْحَيُّ",
+      "translation": "Yang Maha Hidup",
+      "explanation": "Dialah Allah Yang Maha Hidup Kekal abadi tanpa awal dan tanpa akhir.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 255",
+         "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+         "translation": "Allah, tidak ada tuhan selain Dia. Yang Mahahidup, Yang terus menerus mengurus makhluk-Nya."
+      }
+   },
+   {
+      "index": 63,
+      "latin": "Al-Qayyum",
+      "arabic": "الْقَيُّومُ",
+      "translation": "Yang Maha Mandiri",
+      "explanation": "Dialah Allah Yang Maha Mandiri, Berdiri Sendiri dan Mengurus seluruh makhluk-Nya.",
+      "qs": {
+         "ref": "QS. Thaha: 111",
+         "arabic": "وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ",
+         "translation": "Dan tunduklah semua muka kepada Tuhan Yang Mahahidup lagi Maha Mandiri."
+      }
+   },
+   {
+      "index": 64,
+      "latin": "Al-Wajid",
+      "arabic": "الْوَاجِدُ",
+      "translation": "Yang Maha Menemukan",
+      "explanation": "Dialah Allah Yang Maha Menemukan apa saja yang Dikehendaki-Nya tanpa kekurangan sedikitpun.",
+      "qs": {
+         "ref": "QS. Ad-Dhuha: 7",
+         "arabic": "وَوَجَدَكَ ضَالًّاب فَهَدَىٰ",
+         "translation": "Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk."
+      }
+   },
+   {
+      "index": 65,
+      "latin": "Al-Majid",
+      "arabic": "الْمَاجِدُ",
+      "translation": "Yang Maha Mulia",
+      "explanation": "Dialah Allah Yang Maha Mulia dan Pemilik Kelimpahan Keagungan.",
+      "qs": {
+         "ref": "QS. Al-Buruj: 15",
+         "arabic": "ذُو الْعَرْشِ الْمَجِيدُ",
+         "translation": "Yang memiliki Arsy, lagi Maha Mulia."
+      }
+   },
+   {
+      "index": 66,
+      "latin": "Al-Wahid",
+      "arabic": "الْوَاحِدُ",
+      "translation": "Yang Maha Tunggal",
+      "explanation": "Dialah Allah Yang Maha Tunggal / Esa dalam Zat, Sifat, dan Perbuatan-Nya.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 163",
+         "arabic": "وَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ",
+         "translation": "Dan Tuhanmu adalah Tuhan Yang Maha Esa."
+      }
+   },
+   {
+      "index": 67,
+      "latin": "Al-Ahad",
+      "arabic": "الْأَحَدُ",
+      "translation": "Yang Maha Esa",
+      "explanation": "Dialah Allah Yang Maha Esa, tiada sekutu dan tiada tandingan bagi-Nya.",
+      "qs": {
+         "ref": "QS. Al-Ikhlas: 1",
+         "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+         "translation": "Katakanlah: Dialah Allah, Yang Maha Esa."
+      }
+   },
+   {
+      "index": 68,
+      "latin": "As-Shamad",
+      "arabic": "الصَّمَدُ",
+      "translation": "Yang Maha Tempat Meminta",
+      "explanation": "Dialah Allah Tempat bergantung dan memohon segala hajat seluruh makhluk.",
+      "qs": {
+         "ref": "QS. Al-Ikhlas: 2",
+         "arabic": "اللَّهُ الصَّمَدُ",
+         "translation": "Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu."
+      }
+   },
+   {
+      "index": 69,
+      "latin": "Al-Qadir",
+      "arabic": "الْقَادِرُ",
+      "translation": "Yang Maha Kuasa",
+      "explanation": "Dialah Allah Yang Maha Kuasa menentukan segala sesuatu sesuai kehendak-Nya.",
+      "qs": {
+         "ref": "QS. Al-An'am: 65",
+         "arabic": "قُلْ هُوَ الْقَادِرُ عَلَىٰ أَنْ يَبْعَثَ عَلَيْكُمْ عَذَابًا",
+         "translation": "Katakanlah: Dialah yang berkuasa untuk mengirimkan azab kepadamu."
+      }
+   },
+   {
+      "index": 70,
+      "latin": "Al-Muqtadir",
+      "arabic": "الْمُقْتَدِرُ",
+      "translation": "Yang Maha Menentukan",
+      "explanation": "Dialah Allah Yang Maha Berkuasa melaksanakan takdir-Nya dengan sempurna.",
+      "qs": {
+         "ref": "QS. Al-Qamar: 42",
+         "arabic": "فَأَخَذْنَاهُمْ أَخْذَ عَزِيزٍ مُقْتَدِرٍ",
+         "translation": "Maka Kami azab mereka dengan azab dari Yang Maha Perkasa lagi Maha Kuasa."
+      }
+   },
+   {
+      "index": 71,
+      "latin": "Al-Muqaddim",
+      "arabic": "الْمُقَدِّمُ",
+      "translation": "Yang Maha Mendahulukan",
+      "explanation": "Dialah Allah Yang Maha Mendahulukan apa yang patut didahulukan menurut hikmah-Nya.",
+      "qs": {
+         "ref": "QS. Qaf: 28",
+         "arabic": "قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُمْ بِالْوَعِيدِ",
+         "translation": "Allah berfirman: Janganlah kamu bertengkar di hadapan-Ku, padahal sesungguhnya Aku dahulu telah menyampaikan ancaman kepadamu."
+      }
+   },
+   {
+      "index": 72,
+      "latin": "Al-Mu'akhkhir",
+      "arabic": "الْمُؤَخِّرُ",
+      "translation": "Yang Maha Mengakhirkan",
+      "explanation": "Dialah Allah Yang Maha Mengakhirkan apa yang patut diakhirkan sesuai takdir-Nya.",
+      "qs": {
+         "ref": "QS. Nuh: 4",
+         "arabic": "إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ",
+         "translation": "Sungguh ketetapan Allah apabila telah datang tidak dapat ditangguhkan."
+      }
+   },
+   {
+      "index": 73,
+      "latin": "Al-Awwal",
+      "arabic": "الْأَوَّلُ",
+      "translation": "Yang Maha Awal",
+      "explanation": "Dialah Allah Yang Maha Awal tanpa ada permulaan bagi keberadaan-Nya.",
+      "qs": {
+         "ref": "QS. Al-Hadid: 3",
+         "arabic": "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ",
+         "translation": "Dialah Yang Awal dan Yang Akhir, Yang Zhahir dan Yang Batin."
+      }
+   },
+   {
+      "index": 74,
+      "latin": "Al-Akhir",
+      "arabic": "الْآخِرُ",
+      "translation": "Yang Maha Akhir",
+      "explanation": "Dialah Allah Yang Maha Akhir yang tetap kekal setelah seluruh makhluk hancur.",
+      "qs": {
+         "ref": "QS. Al-Hadid: 3",
+         "arabic": "هُوَ الْأَوَّلُ وَالْآخِرُ",
+         "translation": "Dialah Yang Awal dan Yang Akhir."
+      }
+   },
+   {
+      "index": 75,
+      "latin": "Az-Zhahir",
+      "arabic": "الظَّاهِرُ",
+      "translation": "Yang Maha Nyata",
+      "explanation": "Dialah Allah Yang Maha Nyata tanda-tanda kebesaran-Nya di alam semesta.",
+      "qs": {
+         "ref": "QS. Al-Hadid: 3",
+         "arabic": "وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+         "translation": "Yang Zhahir dan Yang Batin, dan Dia Maha Mengetahui segala sesuatu."
+      }
+   },
+   {
+      "index": 76,
+      "latin": "Al-Batin",
+      "arabic": "الْبَاطِنُ",
+      "translation": "Yang Maha Gaib",
+      "explanation": "Dialah Allah Yang Maha Gaib, tidak dapat dijangkau oleh panca indera makhluk.",
+      "qs": {
+         "ref": "QS. Al-Hadid: 3",
+         "arabic": "وَالظَّاهِرُ وَالْبَاطِنُ",
+         "translation": "Yang Nyata dan Yang Gaib / Batin."
+      }
+   },
+   {
+      "index": 77,
+      "latin": "Al-Wali",
+      "arabic": "الْوَالِي",
+      "translation": "Yang Maha Memerintah",
+      "explanation": "Dialah Allah Yang Maha Memerintah dan Menguasai segala urusan makhluk-Nya.",
+      "qs": {
+         "ref": "QS. Ar-Ra'd: 11",
+         "arabic": "وَمَا لَهُمْ مِنْ دُونِهِ مِنْ وَالٍ",
+         "translation": "Dan tidak ada pelindung/pemimpin bagi mereka selain Dia."
+      }
+   },
+   {
+      "index": 78,
+      "latin": "Al-Muta'ali",
+      "arabic": "الْمُتَعَالِي",
+      "translation": "Yang Maha Tinggi",
+      "explanation": "Dialah Allah Yang Maha Tinggi Kebesaran-Nya dari segala sifat cela makhluk.",
+      "qs": {
+         "ref": "QS. Ar-Ra'd: 9",
+         "arabic": "الْكَبِيرُ الْمُتَعَالِ",
+         "translation": "Yang Maha Besar lagi Maha Tinggi."
+      }
+   },
+   {
+      "index": 79,
+      "latin": "Al-Barr",
+      "arabic": "الْبَرُّ",
+      "translation": "Yang Maha Penderma",
+      "explanation": "Dialah Allah Yang Maha Penderma lagi Kebaikan-Nya Melimpah ruah.",
+      "qs": {
+         "ref": "QS. At-Thur: 28",
+         "arabic": "إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ",
+         "translation": "Sungguh Dialah Yang Maha Penderma lagi Maha Penyayang."
+      }
+   },
+   {
+      "index": 80,
+      "latin": "At-Tawwab",
+      "arabic": "التَّوَّابُ",
+      "translation": "Yang Maha Penerima Taubat",
+      "explanation": "Dialah Allah Yang Maha Penerima Taubat hamba-Nya yang penyesalan dan kembali pada-Nya.",
+      "qs": {
+         "ref": "QS. An-Nasr: 3",
+         "arabic": "إِنَّهُ كَانَ تَوَّابًا",
+         "translation": "Sungguh Dia adalah Maha Penerima Taubat."
+      }
+   },
+   {
+      "index": 81,
+      "latin": "Al-Muntaqim",
+      "arabic": "الْمُنْتَقِمُ",
+      "translation": "Yang Maha Pemberi Balasan",
+      "explanation": "Dialah Allah Yang Maha Pemberi Balasan Siksaan bagi orang-orang zalim dan zindik.",
+      "qs": {
+         "ref": "QS. As-Sajdah: 22",
+         "arabic": "إِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُونَ",
+         "translation": "Sungguh Kami akan memberikan balasan kepada orang-orang yang berdosa."
+      }
+   },
+   {
+      "index": 82,
+      "latin": "Al-'Afuww",
+      "arabic": "الْعَفُوُّ",
+      "translation": "Yang Maha Pemaaf",
+      "explanation": "Dialah Allah Yang Maha Pemaaf, Menghapuskan dosa dan kesalahan hamba-Nya.",
+      "qs": {
+         "ref": "QS. An-Nisa': 149",
+         "arabic": "فَإِنَّ اللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+         "translation": "Maka sungguh Allah Maha Pemaaf lagi Maha Kuasa."
+      }
+   },
+   {
+      "index": 83,
+      "latin": "Ar-Ra'uf",
+      "arabic": "الرَّؤُوفُ",
+      "translation": "Yang Maha Pengasih",
+      "explanation": "Dialah Allah Yang Maha Belas Kasih dan Lembut kasih sayang-Nya.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 207",
+         "arabic": "وَاللَّهُ رَءُوفٌ بِالْعِبَادِ",
+         "translation": "Dan Allah Maha Pengasih kepada hamba-hamba-Nya."
+      }
+   },
+   {
+      "index": 84,
+      "latin": "Malikul Mulk",
+      "arabic": "مَالِكُ الْمُلْكِ",
+      "translation": "Yang Maha Penguasa Kerajaan",
+      "explanation": "Dialah Allah Penguasa Kerajaan alam semesta, Memberikan kekuasaan pada siapa saja yang Dikehendaki-Nya.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 26",
+         "arabic": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ",
+         "translation": "Katakanlah: Wahai Tuhan Yang Mempunyai Kerajaan, Engkau berikan kerajaan kepada orang yang Engkau kehendaki."
+      }
+   },
+   {
+      "index": 85,
+      "latin": "Dzul Jalali wal Ikram",
+      "arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+      "translation": "Yang Maha Pemilik Keagungan dan Kemuliaan",
+      "explanation": "Dialah Allah Pemilik Kebesaran, Keagungan, serta Kemuliaan yang sempurna.",
+      "qs": {
+         "ref": "QS. Ar-Rahman: 78",
+         "arabic": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+         "translation": "Maha Suci nama Tuhanmu Yang Mempunyai Keagungan dan Kemuliaan."
+      }
+   },
+   {
+      "index": 86,
+      "latin": "Al-Muqsith",
+      "arabic": "الْمُقْسِطُ",
+      "translation": "Yang Maha Pemberi Keadilan",
+      "explanation": "Dialah Allah Yang Maha Pemberi Keadilan, Menegakkan kebenaran tanpa menzalimi siapapun.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 18",
+         "arabic": "قَائِمًا بِالْقِسْطِ",
+         "translation": "Yang menegakkan keadilan."
+      }
+   },
+   {
+      "index": 87,
+      "latin": "Al-Jami'",
+      "arabic": "الْجَامِعُ",
+      "translation": "Yang Maha Mengumpulkan",
+      "explanation": "Dialah Allah Yang Maha Mengumpulkan seluruh manusia pada hari kiamat.",
+      "qs": {
+         "ref": "QS. Ali 'Imran: 9",
+         "arabic": "رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَا رَيْبَ فِيهِ",
+         "translation": "Ya Tuhan kami, sesungguhnya Engkau mengumpulkan manusia untuk (menerima pembalasan pada) hari yang tak ada keraguan padanya."
+      }
+   },
+   {
+      "index": 88,
+      "latin": "Al-Ghaniyy",
+      "arabic": "الْغَنِيُّ",
+      "translation": "Yang Maha Kaya",
+      "explanation": "Dialah Allah Yang Maha Kaya, Berdiri Sendiri tanpa membutuhkan apapun dari makhluk-Nya.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 267",
+         "arabic": "وَاعْلَمُوا أَنَّ اللَّهَ غَنِيٌّ حَمِيدٌ",
+         "translation": "Dan ketahuilah bahwa Allah Maha Kaya lagi Maha Terpuji."
+      }
+   },
+   {
+      "index": 89,
+      "latin": "Al-Mughni",
+      "arabic": "الْمُغْنِي",
+      "translation": "Yang Maha Memberi Kekayaan",
+      "explanation": "Dialah Allah Yang Maha Memberi Kekayaan dan Kecukupan bagi siapa yang Dikehendaki-Nya.",
+      "qs": {
+         "ref": "QS. An-Najm: 48",
+         "arabic": "وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+         "translation": "Dan bahwasanya Dialah yang memberikan kekayaan dan kecukupan."
+      }
+   },
+   {
+      "index": 90,
+      "latin": "Al-Mani'",
+      "arabic": "الْمَانِعُ",
+      "translation": "Yang Maha Mencegah",
+      "explanation": "Dialah Allah Yang Maha Mencegah bahaya dan menahan bahaya atau rezeki sesuai kehendak-Nya.",
+      "qs": {
+         "ref": "QS. Al-An'am: 17",
+         "arabic": "وَإِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ",
+         "translation": "Jika Allah menimpakan suatu kemudaratan kepadamu, maka tidak ada yang menghilangkannya melainkan Dia sendiri."
+      }
+   },
+   {
+      "index": 91,
+      "latin": "Adh-Dharr",
+      "arabic": "الضَّارُّ",
+      "translation": "Yang Maha Penimpa Kemudaratan",
+      "explanation": "Dialah Allah Yang Maha Kuasa Menimpakan kemudaratan kepada siapa saja yang Dikehendaki-Nya.",
+      "qs": {
+         "ref": "QS. Al-An'am: 17",
+         "arabic": "وَإِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ",
+         "translation": "Jika Allah menimpakan suatu kemudaratan kepadamu, maka tidak ada yang menghilangkannya melainkan Dia."
+      }
+   },
+   {
+      "index": 92,
+      "latin": "An-Nafi'",
+      "arabic": "النَّافِعُ",
+      "translation": "Yang Maha Memberi Manfaat",
+      "explanation": "Dialah Allah Yang Maha Memberi Manfaat dan kebaikan bagi seluruh hamba-Nya.",
+      "qs": {
+         "ref": "QS. Al-Fath: 11",
+         "arabic": "فَمَنْ يَمْلِكُ لَكُمْ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًا",
+         "translation": "Maka siapakah yang dapat menghalang-halangi kehendak Allah jika Dia menghendaki kemudaratan atau manfaat bagimu."
+      }
+   },
+   {
+      "index": 93,
+      "latin": "An-Nur",
+      "arabic": "النُّورُ",
+      "translation": "Yang Maha Bercahaya",
+      "explanation": "Dialah Allah Yang Maha Bercahaya, Sumber Cahaya di langit dan bumi serta Pemberi petunjuk.",
+      "qs": {
+         "ref": "QS. An-Nur: 35",
+         "arabic": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+         "translation": "Allah (Pemberi) cahaya (kepada) langit dan bumi."
+      }
+   },
+   {
+      "index": 94,
+      "latin": "Al-Hadi",
+      "arabic": "الْهَادِي",
+      "translation": "Yang Maha Pemberi Petunjuk",
+      "explanation": "Dialah Allah Yang Maha Pemberi Petunjuk ke jalan kebenaran dan keimanan.",
+      "qs": {
+         "ref": "QS. Al-Hajj: 54",
+         "arabic": "وَإِنَّ اللَّهَ لَهَادِ الَّذِينَ آمَنُوا إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+         "translation": "Dan sesungguhnya Allah adalah Pemberi Petunjuk bagi orang-orang yang beriman kepada jalan yang lurus."
+      }
+   },
+   {
+      "index": 95,
+      "latin": "Al-Badi'",
+      "arabic": "الْبَدِيعُ",
+      "translation": "Yang Maha Pencipta Keindahan",
+      "explanation": "Dialah Allah Yang Maha Pencipta Keindahan dan keajaiban tanpa contoh sebelumnya.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 117",
+         "arabic": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ",
+         "translation": "Allah Pencipta langit dan bumi tanpa contoh sebelumnya."
+      }
+   },
+   {
+      "index": 96,
+      "latin": "Al-Baqi",
+      "arabic": "الْبَاقِي",
+      "translation": "Yang Maha Kekal",
+      "explanation": "Dialah Allah Yang Maha Kekal Abadi, tidak akan pernah binasa sewaktu seluruh alam musnah.",
+      "qs": {
+         "ref": "QS. Ar-Rahman: 27",
+         "arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+         "translation": "Dan tetap kekal Wajah Tuhanmu yang mempunyai Keagungan dan Kemuliaan."
+      }
+   },
+   {
+      "index": 97,
+      "latin": "Al-Warits",
+      "arabic": "الْوَارِثُ",
+      "translation": "Yang Maha Pewaris",
+      "explanation": "Dialah Allah Yang Maha Pewaris, Pemilik sejati yang tetap ada setelah semua ciptaan musnah.",
+      "qs": {
+         "ref": "QS. Al-Hijr: 23",
+         "arabic": "وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ",
+         "translation": "Dan sungguh Kami-lah yang menghidupkan dan mematikan, dan Kami pulalah Yang Mewarisi."
+      }
+   },
+   {
+      "index": 98,
+      "latin": "Ar-Rasyid",
+      "arabic": "الرَّشِيدُ",
+      "translation": "Yang Maha Pandai / Pembimbing",
+      "explanation": "Dialah Allah Yang Maha Pandai dan Maha Pembimbing hamba-Nya menuju kebenaran.",
+      "qs": {
+         "ref": "QS. Al-Kahf: 10",
+         "arabic": "وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+         "translation": "Dan sempurnakanlah bagi kami petunjuk yang lurus dalam urusan kami ini."
+      }
+   },
+   {
+      "index": 99,
+      "latin": "As-Shabur",
+      "arabic": "الصَّبُورُ",
+      "translation": "Yang Maha Sabar",
+      "explanation": "Dialah Allah Yang Maha Sabar, tidak tergesa-gesa menyiksa pelaku maksiat untuk memberi kesempatan bertaubat.",
+      "qs": {
+         "ref": "QS. Al-Baqarah: 153",
+         "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+         "translation": "Sungguh Allah bersama orang-orang yang sabar."
+      }
+   }
+]
