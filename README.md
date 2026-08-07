@@ -17,4 +17,4 @@ Public datasets repository for bot features.
   - [member.json](jkt48/member.json)
 
 - `asupan/`
-  - [cecan.json](asupan/cecan.json) — daftar link gambar cecan (update berkala)
+  - [cecan.json](asupan/cecan.json)
