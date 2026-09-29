@@ -47,10 +47,18 @@ async function fetchAllActiveMembers() {
   while (true) {
     try {
       const res = await fetch(`https://mypage48.com/api/members?page=${page}&limit=30`, {
-        headers: { Accept: 'application/json', 'User-Agent': 'Mozilla/5.0' },
+        headers: {
+          'Accept': 'application/json, text/plain, */*',
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+          'Referer': 'https://mypage48.com/',
+          'Origin': 'https://mypage48.com'
+        },
         signal: AbortSignal.timeout(15000)
       });
-      if (!res.ok) break;
+      if (!res.ok) {
+        console.warn(`[Sync] Upstream HTTP response not OK on page ${page}: ${res.status} ${res.statusText}`);
+        break;
+      }
       const json = await res.json();
       const list = json.data || [];
       members.push(...list);
