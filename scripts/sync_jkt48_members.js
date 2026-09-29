@@ -102,6 +102,7 @@ async function main() {
       generation: parseInt(m.generation, 10) || 15,
       graduated: false,
       trainee: m.member_type === 'TRAINEE' || Boolean(m.trainee),
+      team: m.team || (m.member_type === 'TRAINEE' || Boolean(m.trainee) ? 'TRAINEE' : 'DREAM'),
       picture: pictureFilename,
       image_url: `https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/${pictureFilename}`
     };
