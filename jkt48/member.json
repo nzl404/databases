@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-26T07:25:44.902Z",
-  "total": 66,
+  "updated_at": "2026-09-29T05:22:56.253Z",
+  "total": 63,
   "team_counts": {
     "DREAM": 12,
-    "LOVE": 15,
+    "LOVE": 14,
     "PASSION": 15,
-    "TRAINEE": 19,
-    "JKT48_VIRTUAL": 5
+    "TRAINEE": 18,
+    "JKT48_VIRTUAL": 4
   },
   "members": [
     {
@@ -455,34 +455,6 @@
       "youtube": "",
       "detail_url": "https://jkt48.com/member/detail?member=aurhel-alana-33&type=LOVE",
       "jikoshoukai": "Dengan kekuatan bulan, aku akan menyihirmu dengan pesonaku.",
-      "jikoshoukai_source": "https://www.idntimes.com/hype/entertainment/jikoshoukai-lengkap-member-jkt48-ada-trainee-dan-jkt48v-juga-01-hjrfk-gs7qhh"
-    },
-    {
-      "id": 45,
-      "code": "CATHLEEN_NIXIE",
-      "slug": "cathleen-nixie-45",
-      "name": "Cathleen Nixie",
-      "nickname": "Cathy",
-      "team": "LOVE",
-      "birth_place": "",
-      "birth_date": "2009-05-28",
-      "birth_day": 28,
-      "birth_month": 5,
-      "birth_year": 2009,
-      "birthday_key": "05-28",
-      "height_cm": 162,
-      "blood_type": "A",
-      "zodiac": "Gemini",
-      "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/cathleen_nixie.jpg",
-      "photo_1": "https://jkt48.com/api/v1/storages/media/jkt48-member/cathleen_nixie.jpg",
-      "photo_2": "https://jkt48.com/api/v1/storages/media/jkt48-member/cathleen_nixie.jpg",
-      "photo_3": "",
-      "twitter": "N_CathyJKT48",
-      "instagram": "jkt48.cathy",
-      "tiktok": "cathyjkt48",
-      "youtube": "",
-      "detail_url": "https://jkt48.com/member/detail?member=cathleen-nixie-45&type=LOVE",
-      "jikoshoukai": "Tring! Si peri cantik jelita, itulah aku.",
       "jikoshoukai_source": "https://www.idntimes.com/hype/entertainment/jikoshoukai-lengkap-member-jkt48-ada-trainee-dan-jkt48v-juga-01-hjrfk-gs7qhh"
     },
     {
@@ -1239,34 +1211,6 @@
       "youtube": "",
       "detail_url": "https://jkt48.com/member/detail?member=astrella-virgiananda-28&type=TRAINEE",
       "jikoshoukai": "Suka berekspresi melalui kreasi, Tara! Aku Virgi!",
-      "jikoshoukai_source": "https://spotlight.indozone.id/seleb/455397902/rilis-video-jikoshoukai-ini-profil-lengkap-member-trainee-jkt48-generasi-13"
-    },
-    {
-      "id": 30,
-      "code": "AULIA_RIZA",
-      "slug": "aulia-riza-30",
-      "name": "Aulia Riza",
-      "nickname": "Auwia",
-      "team": "TRAINEE",
-      "birth_place": "",
-      "birth_date": "2007-07-14",
-      "birth_day": 14,
-      "birth_month": 7,
-      "birth_year": 2007,
-      "birthday_key": "07-14",
-      "height_cm": 166,
-      "blood_type": "O",
-      "zodiac": "Cancer",
-      "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Aulia_Riza.jpg",
-      "photo_1": "https://jkt48.com/api/v1/storages/media/jkt48-member/Aulia_Riza.jpg",
-      "photo_2": "https://jkt48.com/api/v1/storages/media/jkt48-member/Aulia_Riza.jpg",
-      "photo_3": "",
-      "twitter": "Auwia_JKT48",
-      "instagram": " auwia.jkt48",
-      "tiktok": "jkt48.auwia",
-      "youtube": "",
-      "detail_url": "https://jkt48.com/member/detail?member=aulia-riza-30&type=TRAINEE",
-      "jikoshoukai": "Serigala tangguh, di bawah sinar purnama. Panggil aku Auwia!",
       "jikoshoukai_source": "https://spotlight.indozone.id/seleb/455397902/rilis-video-jikoshoukai-ini-profil-lengkap-member-trainee-jkt48-generasi-13"
     },
     {
