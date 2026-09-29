@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-29T05:23:43.039Z",
-  "total": 63,
+  "updated_at": "2026-09-29T20:05:21.340Z",
+  "total": 62,
   "team_counts": {
     "DREAM": 12,
-    "LOVE": 14,
+    "LOVE": 13,
     "PASSION": 15,
     "TRAINEE": 18,
     "JKT48_VIRTUAL": 4
@@ -343,34 +343,6 @@
       "youtube": "",
       "detail_url": "https://jkt48.com/member/detail?member=shabilqis-naila-221&type=DREAM",
       "jikoshoukai": "Roar! Si singa pemberani yang siap menyemangati harimu.",
-      "jikoshoukai_source": "https://www.idntimes.com/hype/entertainment/jikoshoukai-lengkap-member-jkt48-ada-trainee-dan-jkt48v-juga-01-hjrfk-gs7qhh"
-    },
-    {
-      "id": 13,
-      "code": "ALYA_AMANDA",
-      "slug": "alya-amanda-13",
-      "name": "Alya Amanda",
-      "nickname": "Alya",
-      "team": "LOVE",
-      "birth_place": "",
-      "birth_date": "2006-08-26",
-      "birth_day": 26,
-      "birth_month": 8,
-      "birth_year": 2006,
-      "birthday_key": "08-26",
-      "height_cm": 162,
-      "blood_type": "A",
-      "zodiac": "Virgo",
-      "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/alya_amanda.jpg",
-      "photo_1": "https://jkt48.com/api/v1/storages/media/jkt48-member/alya_amanda.jpg",
-      "photo_2": "https://jkt48.com/api/v1/storages/media/jkt48-member/alya_amanda.jpg",
-      "photo_3": "",
-      "twitter": "AA_AlyaJKT48",
-      "instagram": "jkt48.alya_",
-      "tiktok": "alyajkt48",
-      "youtube": "",
-      "detail_url": "https://jkt48.com/member/detail?member=alya-amanda-13&type=LOVE",
-      "jikoshoukai": "Jika hatimu sedang menangis, aku akan datang sebagai pelangi.",
       "jikoshoukai_source": "https://www.idntimes.com/hype/entertainment/jikoshoukai-lengkap-member-jkt48-ada-trainee-dan-jkt48v-juga-01-hjrfk-gs7qhh"
     },
     {

@@ -19,6 +19,14 @@ function normalizeName(str) {
     .replace(/[^a-z0-9]/g, '');
 }
 
+const KNOWN_GRADUATED_NAMES = new Set([
+  'alyaamanda',
+  'cathleennixie',
+  'chelseadavina',
+  'gendismayrannisa',
+  'auliariza'
+]);
+
 function getZodiac(month, day) {
   if (!month || !day) return '';
   const dates = [20, 19, 21, 20, 21, 21, 23, 23, 23, 23, 22, 22];
@@ -106,9 +114,11 @@ async function syncMembers() {
     }
 
     const norm = normalizeName(m.name);
-    // Check if still in official active list
-    const isStillActive = activeApiNormNames.has(norm) ||
-      Array.from(activeApiNormNames).some(apiNorm => apiNorm.includes(norm) || norm.includes(apiNorm));
+    // Check if still in official active list and not in known graduated list
+    const isStillActive = !KNOWN_GRADUATED_NAMES.has(norm) && (
+      activeApiNormNames.has(norm) ||
+      Array.from(activeApiNormNames).some(apiNorm => apiNorm.includes(norm) || norm.includes(apiNorm))
+    );
 
     if (!isStillActive) {
       console.log(`[Sync] [GRADUATED] Member "${m.name}" (${m.team}) is no longer in active roster. Removing.`);
@@ -132,7 +142,8 @@ async function syncMembers() {
   const currentMemberNormNames = new Set(remainingMembers.map(m => normalizeName(m.name)));
   const newMembers = activeApiMembers.filter(apiM => {
     const norm = normalizeName(apiM.name);
-    return !currentMemberNormNames.has(norm) &&
+    return !KNOWN_GRADUATED_NAMES.has(norm) &&
+      !currentMemberNormNames.has(norm) &&
       !Array.from(currentMemberNormNames).some(curNorm => curNorm.includes(norm) || norm.includes(curNorm));
   });
 

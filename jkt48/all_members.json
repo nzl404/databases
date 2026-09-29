@@ -2198,11 +2198,11 @@
       "slug": "alya_amanda",
       "name": "Alya Amanda",
       "generation": 11,
-      "graduated": false,
+      "graduated": true,
       "trainee": false,
       "picture": "alya_amanda.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/alya_amanda.webp",
-      "team": "LOVE"
+      "team": "EX-MEMBER"
     },
     {
       "id": 201,
