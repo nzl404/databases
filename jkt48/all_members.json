@@ -1,0 +1,2495 @@
+{
+  "total": 249,
+  "total_graduated": 186,
+  "total_active": 63,
+  "updated_at": "2026-09-29T03:34:28.340Z",
+  "members": [
+    {
+      "id": 1,
+      "slug": "gabriela_margareth_warouw",
+      "name": "Gabriela Margareth Warouw",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "gabriella.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/gabriella.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "allisa_astri",
+      "name": "Allisa Astri",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "allisa_astri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/allisa_astri.webp"
+    },
+    {
+      "id": 3,
+      "slug": "alissa_galliamova",
+      "name": "Alissa Galliamova",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "alissa_galliamova.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/alissa_galliamova.webp"
+    },
+    {
+      "id": 4,
+      "slug": "ayana_shahab",
+      "name": "Ayana Shahab",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "ayana_shahab.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ayana_shahab.webp"
+    },
+    {
+      "id": 5,
+      "slug": "beby_chaesara_anadila",
+      "name": "Beby Chaesara Anadila",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "beby_chaesara_anadila.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/beby_chaesara_anadila.webp"
+    },
+    {
+      "id": 6,
+      "slug": "cindy_gulla",
+      "name": "Cindy Gulla",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "cindy_gulla.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cindy_gulla.webp"
+    },
+    {
+      "id": 7,
+      "slug": "cleopatra",
+      "name": "Cleopatra",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "cleopatra.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cleopatra.webp"
+    },
+    {
+      "id": 8,
+      "slug": "delima_rizky",
+      "name": "Delima Rizky",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "delima_rizky.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/delima_rizky.webp"
+    },
+    {
+      "id": 9,
+      "slug": "devi_kinal_putri",
+      "name": "Devi Kinal Putri",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "devi_kinal_putri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/devi_kinal_putri.webp"
+    },
+    {
+      "id": 10,
+      "slug": "diasta_priswarini",
+      "name": "Diasta Priswarini",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "diasta_priswarini.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/diasta_priswarini.webp"
+    },
+    {
+      "id": 11,
+      "slug": "fahira",
+      "name": "Fahira",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "fahira.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/fahira.webp"
+    },
+    {
+      "id": 12,
+      "slug": "frieska_anastasia_laksani",
+      "name": "Frieska Anastasia Laksani",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "frieska_anastasia_laksani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/frieska_anastasia_laksani.webp"
+    },
+    {
+      "id": 13,
+      "slug": "ghaida_farisya",
+      "name": "Ghaida Farisya",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "ghaida_farisya.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ghaida_farisya.webp"
+    },
+    {
+      "id": 14,
+      "slug": "intania_pratama_ilham",
+      "name": "Intania Pratama Ilham",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "intania_pratama_ilham.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/intania_pratama_ilham.webp"
+    },
+    {
+      "id": 15,
+      "slug": "jessica_vania",
+      "name": "Jessica Vania",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jessica_vania.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jessica_vania.webp"
+    },
+    {
+      "id": 16,
+      "slug": "jessica_veranda",
+      "name": "Jessica Veranda",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jessica_veranda.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jessica_veranda.jpg"
+    },
+    {
+      "id": 17,
+      "slug": "melody_nurramdhani_laksani",
+      "name": "Melody Nurramdhani Laksani",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "melody_nurramdhani_laksani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/melody_nurramdhani_laksani.webp"
+    },
+    {
+      "id": 18,
+      "slug": "nabilah_ratna_ayu_azalia",
+      "name": "Nabilah Ratna Ayu Azalia",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nabilah_ratna_ayu_azalia.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nabilah_ratna_ayu_azalia.jpg"
+    },
+    {
+      "id": 19,
+      "slug": "neneng_rosediana",
+      "name": "Neneng Rosediana",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "neneng_rosediana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/neneng_rosediana.webp"
+    },
+    {
+      "id": 20,
+      "slug": "nozawa_rena",
+      "name": "Nozawa Rena",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nozawa_rena.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nozawa_rena.webp"
+    },
+    {
+      "id": 21,
+      "slug": "rezky_wiranti_dhike",
+      "name": "Rezky Wiranti Dhike",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "rezky_wiranti_dhike.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/rezky_wiranti_dhike.webp"
+    },
+    {
+      "id": 22,
+      "slug": "rica_leyona",
+      "name": "Rica Leyona",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "rica_leyona.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/rica_leyona.webp"
+    },
+    {
+      "id": 23,
+      "slug": "sendy_ariani",
+      "name": "Sendy Ariani",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "sendy_ariani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/sendy_ariani.webp"
+    },
+    {
+      "id": 24,
+      "slug": "shania_junianatha",
+      "name": "Shania Junianatha",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "shania_junianatha.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shania_junianatha.webp"
+    },
+    {
+      "id": 25,
+      "slug": "siti_gayatri",
+      "name": "Siti Gayatri",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "siti_gayatri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/siti_gayatri.webp"
+    },
+    {
+      "id": 26,
+      "slug": "sonia_natalia",
+      "name": "Sonia Natalia",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "sonia_natalia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/sonia_natalia.webp"
+    },
+    {
+      "id": 27,
+      "slug": "sonya_pandarmawan",
+      "name": "Sonya Pandarmawan",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "sonya_pandarmawan.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/sonya_pandarmawan.webp"
+    },
+    {
+      "id": 28,
+      "slug": "stella_cornelia",
+      "name": "Stella Cornelia",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "stella_cornelia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/stella_cornelia.webp"
+    },
+    {
+      "id": 29,
+      "slug": "haruka_nakagawa",
+      "name": "Haruka Nakagawa",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "haruka_nakagawa.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/haruka_nakagawa.jpg"
+    },
+    {
+      "id": 30,
+      "slug": "aki_takajo",
+      "name": "Aki Takajo",
+      "generation": 1,
+      "graduated": true,
+      "trainee": false,
+      "picture": "aki_takajo.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aki_takajo.jpg"
+    },
+    {
+      "id": 31,
+      "slug": "alicia_chanzia",
+      "name": "Alicia Chanzia",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "alicia_chanzia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/alicia_chanzia.webp"
+    },
+    {
+      "id": 32,
+      "slug": "althea_callista",
+      "name": "Althea Callista",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "althea_callista.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/althea_callista.webp"
+    },
+    {
+      "id": 33,
+      "slug": "annisa_athia",
+      "name": "Annisa Athia",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "annisa_athia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/annisa_athia.webp"
+    },
+    {
+      "id": 34,
+      "slug": "cindy_yuvia",
+      "name": "Cindy Yuvia",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "cindy_yuvia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cindy_yuvia.webp"
+    },
+    {
+      "id": 35,
+      "slug": "della_delila",
+      "name": "Della Delila",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "della_delila.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/della_delila.webp"
+    },
+    {
+      "id": 36,
+      "slug": "dellia_erdita",
+      "name": "Dellia Erdita",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "dellia_erdita.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/dellia_erdita.webp"
+    },
+    {
+      "id": 37,
+      "slug": "dena_siti_rohyati",
+      "name": "Dena Siti Rohyati",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "dena_siti_rohyati.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/dena_siti_rohyati.webp"
+    },
+    {
+      "id": 38,
+      "slug": "dwi_putri_bonita",
+      "name": "Dwi Putri Bonita",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "dwi_putri_bonita.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/dwi_putri_bonita.webp"
+    },
+    {
+      "id": 39,
+      "slug": "fakhriyani_shafariyanti",
+      "name": "Fakhriyani Shafariyanti",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "fakhriyani_shafariyanti.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/fakhriyani_shafariyanti.webp"
+    },
+    {
+      "id": 40,
+      "slug": "intar_putri_kariina",
+      "name": "Intar Putri Kariina",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "intar_putri_kariina.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/intar_putri_kariina.webp"
+    },
+    {
+      "id": 41,
+      "slug": "jennifer_hanna",
+      "name": "Jennifer Hanna",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jennifer_hanna.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jennifer_hanna.webp"
+    },
+    {
+      "id": 42,
+      "slug": "jennifer_rachel_natasya",
+      "name": "Jennifer Rachel Natasya",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jennifer_rachel_natasya.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jennifer_rachel_natasya.webp"
+    },
+    {
+      "id": 43,
+      "slug": "lidya_maulida_djuhandar",
+      "name": "Lidya Maulida Djuhandar",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "lidya_maulida_djuhandar.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/lidya_maulida_djuhandar.webp"
+    },
+    {
+      "id": 44,
+      "slug": "nadhifa_karimah",
+      "name": "Nadhifa Karimah",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nadhifa_karimah.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nadhifa_karimah.webp"
+    },
+    {
+      "id": 45,
+      "slug": "nadila_cindi_wantari",
+      "name": "Nadila Cindi Wantari",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nadila_cindi_wantari.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nadila_cindi_wantari.webp"
+    },
+    {
+      "id": 46,
+      "slug": "natalia",
+      "name": "Natalia",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "natalia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/natalia.webp"
+    },
+    {
+      "id": 47,
+      "slug": "noella_sisterina",
+      "name": "Noella Sisterina",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "noella_sisterina.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/noella_sisterina.webp"
+    },
+    {
+      "id": 48,
+      "slug": "novinta_dhini",
+      "name": "Novinta Dhini",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "novinta_dhini.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/novinta_dhini.webp"
+    },
+    {
+      "id": 49,
+      "slug": "nurhalima_oktavianti",
+      "name": "Nurhalima Oktavianti",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nurhalima_oktavianti.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nurhalima_oktavianti.webp"
+    },
+    {
+      "id": 50,
+      "slug": "octi_sevpin",
+      "name": "Octi Sevpin",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "octi_sevpin.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/octi_sevpin.webp"
+    },
+    {
+      "id": 51,
+      "slug": "olivia_robberecht",
+      "name": "Olivia Robberecht",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "olivia_robberecht.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/olivia_robberecht.webp"
+    },
+    {
+      "id": 52,
+      "slug": "priscillia_sari_dewi",
+      "name": "Priscillia Sari Dewi",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "priscillia_sari_dewi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/priscillia_sari_dewi.webp"
+    },
+    {
+      "id": 53,
+      "slug": "ratu_vienny_fitrilya",
+      "name": "Ratu Vienny Fitrilya",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "ratu_vienny_fitrilya.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ratu_vienny_fitrilya.webp"
+    },
+    {
+      "id": 54,
+      "slug": "riskha_fairunissa",
+      "name": "Riskha Fairunissa",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "riskha_fairunissa.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/riskha_fairunissa.webp"
+    },
+    {
+      "id": 55,
+      "slug": "rona_anggreani",
+      "name": "Rona Anggreani",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "rona_anggreani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/rona_anggreani.webp"
+    },
+    {
+      "id": 56,
+      "slug": "saktia_oktapyani",
+      "name": "Saktia Oktapyani",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "saktia_oktapyani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/saktia_oktapyani.webp"
+    },
+    {
+      "id": 57,
+      "slug": "shinta_naomi",
+      "name": "Shinta Naomi",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "shinta_naomi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shinta_naomi.webp"
+    },
+    {
+      "id": 58,
+      "slug": "sinka_juliani",
+      "name": "Sinka Juliani",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "sinka_juliani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/sinka_juliani.webp"
+    },
+    {
+      "id": 59,
+      "slug": "thalia",
+      "name": "Thalia",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "thalia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/thalia.webp"
+    },
+    {
+      "id": 60,
+      "slug": "thalia_ivanka_elizabeth",
+      "name": "Thalia Ivanka Elizabeth",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "thalia_ivanka_elizabeth.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/thalia_ivanka_elizabeth.webp"
+    },
+    {
+      "id": 61,
+      "slug": "viviyona_apriani",
+      "name": "Viviyona Apriani",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "viviyona_apriani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/viviyona_apriani.webp"
+    },
+    {
+      "id": 62,
+      "slug": "chikano_rina",
+      "name": "Chikano Rina",
+      "generation": 2,
+      "graduated": true,
+      "trainee": false,
+      "picture": "chikano_rina.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/chikano_rina.jpg"
+    },
+    {
+      "id": 63,
+      "slug": "feni_fitriyanti",
+      "name": "Feni Fitriyanti",
+      "generation": 3,
+      "graduated": false,
+      "trainee": false,
+      "picture": "feni_fitriyanti.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/feni_fitriyanti.webp"
+    },
+    {
+      "id": 64,
+      "slug": "fransisca_saraswati_puspa_dewi",
+      "name": "Fransisca Saraswati Puspa Dewi",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "fransisca_saraswati_puspa_dewi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/fransisca_saraswati_puspa_dewi.webp"
+    },
+    {
+      "id": 65,
+      "slug": "shani_indira_natio",
+      "name": "Shani Indira Natio",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "shani_indira_natio.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shani_indira_natio.webp"
+    },
+    {
+      "id": 66,
+      "slug": "shania_gracia",
+      "name": "Shania Gracia",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "shania_gracia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shania_gracia.webp"
+    },
+    {
+      "id": 67,
+      "slug": "alycia_ferryana",
+      "name": "Alycia Ferryana",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "alycia_ferryana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/alycia_ferryana.webp"
+    },
+    {
+      "id": 68,
+      "slug": "amanda_dwi_arista",
+      "name": "Amanda Dwi Arista",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "amanda_dwi_arista.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/amanda_dwi_arista.webp"
+    },
+    {
+      "id": 69,
+      "slug": "andela_yuwono",
+      "name": "Andela Yuwono",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "andela_yuwono.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/andela_yuwono.webp"
+    },
+    {
+      "id": 70,
+      "slug": "anggie_putri_kurniasari",
+      "name": "Anggie Putri Kurniasari",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "anggie_putri_kurniasari.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/anggie_putri_kurniasari.webp"
+    },
+    {
+      "id": 71,
+      "slug": "aninditha_rahma_cahyadi",
+      "name": "Aninditha Rahma Cahyadi",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "aninditha_rahma_cahyadi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aninditha_rahma_cahyadi.webp"
+    },
+    {
+      "id": 72,
+      "slug": "ayu_safira_oktaviani",
+      "name": "Ayu Safira Oktaviani",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "ayu_safira_oktaviani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ayu_safira_oktaviani.webp"
+    },
+    {
+      "id": 73,
+      "slug": "chikita_ravenska_mamesah",
+      "name": "Chikita Ravenska Mamesah",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "chikita_ravenska_mamesah.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/chikita_ravenska_mamesah.webp"
+    },
+    {
+      "id": 74,
+      "slug": "elaine_hartanto",
+      "name": "Elaine Hartanto",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "elaine_hartanto.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/elaine_hartanto.webp"
+    },
+    {
+      "id": 75,
+      "slug": "farina_yogi_devani",
+      "name": "Farina Yogi Devani",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "farina_yogi_devani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/farina_yogi_devani.webp"
+    },
+    {
+      "id": 76,
+      "slug": "indah_permata_sari",
+      "name": "Indah Permata Sari",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "indah_permata_sari.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/indah_permata_sari.webp"
+    },
+    {
+      "id": 77,
+      "slug": "kezia_putri_andinta",
+      "name": "Kezia Putri Andinta",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "kezia_putri_andinta.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/kezia_putri_andinta.webp"
+    },
+    {
+      "id": 78,
+      "slug": "maria_genoveva_natalia_desy_purnamasari_gunawan",
+      "name": "Maria Genoveva Natalia Desy Purnamasari Gunawan",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "maria_genoveva_natalia_desy_purnamasari_gunawan.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/maria_genoveva_natalia_desy_purnamasari_gunawan.webp"
+    },
+    {
+      "id": 79,
+      "slug": "martha_graciela",
+      "name": "Martha Graciela",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "martha_graciela.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/martha_graciela.webp"
+    },
+    {
+      "id": 80,
+      "slug": "michelle_christo_kusnadi",
+      "name": "Michelle Christo Kusnadi",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "michelle_christo_kusnadi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/michelle_christo_kusnadi.webp"
+    },
+    {
+      "id": 81,
+      "slug": "milenia_christien_glory_goenawan",
+      "name": "Milenia Christien Glory Goenawan",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "milenia_christien_glory_goenawan.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/milenia_christien_glory_goenawan.webp"
+    },
+    {
+      "id": 82,
+      "slug": "nadhifa_salsabila",
+      "name": "Nadhifa Salsabila",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nadhifa_salsabila.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nadhifa_salsabila.webp"
+    },
+    {
+      "id": 83,
+      "slug": "ni_made_ayu_vania_aurellia",
+      "name": "Ni Made Ayu Vania Aurellia",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "ni_made_ayu_vania_aurellia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ni_made_ayu_vania_aurellia.webp"
+    },
+    {
+      "id": 84,
+      "slug": "nina_hamidah",
+      "name": "Nina Hamidah",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nina_hamidah.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nina_hamidah.webp"
+    },
+    {
+      "id": 85,
+      "slug": "pipit_ananda",
+      "name": "Pipit Ananda",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "pipit_ananda.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/pipit_ananda.webp"
+    },
+    {
+      "id": 86,
+      "slug": "putri_farin_kartika",
+      "name": "Putri Farin Kartika",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "putri_farin_kartika.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/putri_farin_kartika.webp"
+    },
+    {
+      "id": 87,
+      "slug": "rizka_khalila",
+      "name": "Rizka Khalila",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "rizka_khalila.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/rizka_khalila.webp"
+    },
+    {
+      "id": 88,
+      "slug": "shaffa_nabila",
+      "name": "Shaffa Nabila",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "shaffa_nabila.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shaffa_nabila.webp"
+    },
+    {
+      "id": 89,
+      "slug": "sofia_meifaliani",
+      "name": "Sofia Meifaliani",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "sofia_meifaliani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/sofia_meifaliani.webp"
+    },
+    {
+      "id": 90,
+      "slug": "stephanie_pricilla_indarto_putri",
+      "name": "Stephanie Pricilla Indarto Putri",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "stephanie_pricilla_indarto_putri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/stephanie_pricilla_indarto_putri.webp"
+    },
+    {
+      "id": 91,
+      "slug": "syahfira_angela_nurhaliza",
+      "name": "Syahfira Angela Nurhaliza",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "syahfira_angela_nurhaliza.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/syahfira_angela_nurhaliza.webp"
+    },
+    {
+      "id": 92,
+      "slug": "triarona_kusuma",
+      "name": "Triarona Kusuma",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "triarona_kusuma.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/triarona_kusuma.webp"
+    },
+    {
+      "id": 93,
+      "slug": "yansen_indiani",
+      "name": "Yansen Indiani",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "yansen_indiani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/yansen_indiani.webp"
+    },
+    {
+      "id": 94,
+      "slug": "zebi_magnolia_fawwaz",
+      "name": "Zebi Magnolia Fawwaz",
+      "generation": 3,
+      "graduated": true,
+      "trainee": false,
+      "picture": "zebi_magnolia_fawwaz.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/zebi_magnolia_fawwaz.webp"
+    },
+    {
+      "id": 95,
+      "slug": "jinan_safa_safira",
+      "name": "Jinan Safa Safira",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jinan_safa_safira.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jinan_safa_safira.webp"
+    },
+    {
+      "id": 96,
+      "slug": "tan_zhi_hui_celine",
+      "name": "Tan Zhi Hui Celine",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "tan_zhi_hui_celine.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/tan_zhi_hui_celine.jpg"
+    },
+    {
+      "id": 97,
+      "slug": "cindy_hapsari_maharani_pujiantoro_putri",
+      "name": "Cindy Hapsari Maharani Pujiantoro Putri",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "cindy_hapsari.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cindy_hapsari.webp"
+    },
+    {
+      "id": 98,
+      "slug": "adriani_elisabeth",
+      "name": "Adriani Elisabeth",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "adriani_elisabeth.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/adriani_elisabeth.webp"
+    },
+    {
+      "id": 99,
+      "slug": "christy_chriselle",
+      "name": "Christy Chriselle",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "christi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/christi.webp"
+    },
+    {
+      "id": 100,
+      "slug": "fidly_immanda_azzahra",
+      "name": "Fidly Immanda Azzahra",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "fidly_immanda.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/fidly_immanda.webp"
+    },
+    {
+      "id": 101,
+      "slug": "jessica_berliana_ekawardani",
+      "name": "Jessica Berliana Ekawardani",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jessica_berliana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jessica_berliana.webp"
+    },
+    {
+      "id": 102,
+      "slug": "made_devi_ranita_ningtara",
+      "name": "Made Devi Ranita Ningtara",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "made_devi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/made_devi.webp"
+    },
+    {
+      "id": 103,
+      "slug": "mega_suryani",
+      "name": "Mega Suryani",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "mega_suryani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/mega_suryani.webp"
+    },
+    {
+      "id": 104,
+      "slug": "melati_putri_rahel_sesilia",
+      "name": "Melati Putri Rahel Sesilia",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "melati_putri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/melati_putri.webp"
+    },
+    {
+      "id": 105,
+      "slug": "sri_lintang",
+      "name": "Sri Lintang",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "sri_lintang.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/sri_lintang.webp"
+    },
+    {
+      "id": 106,
+      "slug": "zahra_yuriva_dermawan",
+      "name": "Zahra Yuriva Dermawan",
+      "generation": 4,
+      "graduated": true,
+      "trainee": false,
+      "picture": "zahra_yuriva.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/zahra_yuriva.webp"
+    },
+    {
+      "id": 107,
+      "slug": "adhisty_zara",
+      "name": "Adhisty Zara",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "adhisty_zara.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/adhisty_zara.webp"
+    },
+    {
+      "id": 108,
+      "slug": "anggita_destiana_dewi",
+      "name": "Anggita Destiana Dewi",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "anggita_destiana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/anggita_destiana.webp"
+    },
+    {
+      "id": 109,
+      "slug": "citra_ayu_pranajaya_wibrado",
+      "name": "Citra Ayu Pranajaya Wibrado",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "citra_ayu.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/citra_ayu.webp"
+    },
+    {
+      "id": 110,
+      "slug": "chintya_hanindhitakirana_wirawan",
+      "name": "Chintya Hanindhitakirana Wirawan",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "chintya_hanindhitakirana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/chintya_hanindhitakirana.webp"
+    },
+    {
+      "id": 111,
+      "slug": "diani_amalia_ramadhani",
+      "name": "Diani Amalia Ramadhani",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "diani_amalia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/diani_amalia.webp"
+    },
+    {
+      "id": 112,
+      "slug": "elizabeth_gloria_setiawan",
+      "name": "Elizabeth Gloria Setiawan",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "elizabeth_gloria.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/elizabeth_gloria.webp"
+    },
+    {
+      "id": 113,
+      "slug": "eve_antoinette_ichwan",
+      "name": "Eve Antoinette Ichwan",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "eve_antoinette.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/eve_antoinette.webp"
+    },
+    {
+      "id": 114,
+      "slug": "gabryela_marcelina",
+      "name": "Gabryela Marcelina",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "gabryela_marcelina.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/gabryela_marcelina.webp"
+    },
+    {
+      "id": 115,
+      "slug": "hasyakyla_utami_kusumawardhani",
+      "name": "Hasyakyla Utami Kusumawardhani",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "hasyakyla_utami.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/hasyakyla_utami.webp"
+    },
+    {
+      "id": 116,
+      "slug": "helma_sonya",
+      "name": "Helma Sonya",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "helma_sonya.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/helma_sonya.webp"
+    },
+    {
+      "id": 117,
+      "slug": "nurhayati",
+      "name": "Nurhayati",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nurhayati.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nurhayati.webp"
+    },
+    {
+      "id": 118,
+      "slug": "puti_nadhira_azalia",
+      "name": "Puti Nadhira Azalia",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "puti_nadhira.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/puti_nadhira.webp"
+    },
+    {
+      "id": 119,
+      "slug": "regina_angelina",
+      "name": "Regina Angelina",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "regina_angelina.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/regina_angelina.webp"
+    },
+    {
+      "id": 120,
+      "slug": "rissanda_putri_tuarissa",
+      "name": "Rissanda Putri Tuarissa",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "rissanda_putri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/rissanda_putri.webp"
+    },
+    {
+      "id": 121,
+      "slug": "ruth_damayanti_sitanggang",
+      "name": "Ruth Damayanti Sitanggang",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "ruth_damayanti.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ruth_damayanti.webp"
+    },
+    {
+      "id": 122,
+      "slug": "sania_julia_montolalu",
+      "name": "Sania Julia Montolalu",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "sania_julia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/sania_julia.webp"
+    },
+    {
+      "id": 123,
+      "slug": "violeta_burhan",
+      "name": "Violeta Burhan",
+      "generation": 5,
+      "graduated": true,
+      "trainee": false,
+      "picture": "violeta_burhan.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/violeta_burhan.webp"
+    },
+    {
+      "id": 124,
+      "slug": "gita_sekar_andarini",
+      "name": "Gita Sekar Andarini",
+      "generation": 6,
+      "graduated": false,
+      "trainee": false,
+      "picture": "gita_sekar_andarini.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/gita_sekar_andarini.webp"
+    },
+    {
+      "id": 125,
+      "slug": "amanda_priscella",
+      "name": "Amanda Priscella",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "amanda_priscella.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/amanda_priscella.webp"
+    },
+    {
+      "id": 126,
+      "slug": "anastasya_narwastu_tety_handuran",
+      "name": "Anastasya Narwastu Tety Handuran",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "anastasya_narwastu.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/anastasya_narwastu.webp"
+    },
+    {
+      "id": 127,
+      "slug": "ariella_calista_ichwan",
+      "name": "Ariella Calista Ichwan",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "ariella_calista.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ariella_calista.webp"
+    },
+    {
+      "id": 128,
+      "slug": "denise_caroline",
+      "name": "Denise Caroline",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "denise_caroline.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/denise_caroline.webp"
+    },
+    {
+      "id": 129,
+      "slug": "erika_ebisawa_kuswan",
+      "name": "Erika Ebisawa Kuswan",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "erika_ebisawa.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/erika_ebisawa.webp"
+    },
+    {
+      "id": 130,
+      "slug": "erika_sintia",
+      "name": "Erika Sintia",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "erika_sintia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/erika_sintia.webp"
+    },
+    {
+      "id": 131,
+      "slug": "graciella_ruth_wiranto",
+      "name": "Graciella Ruth Wiranto",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "graciella_ruth.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/graciella_ruth.webp"
+    },
+    {
+      "id": 132,
+      "slug": "jihan_miftahul_jannah",
+      "name": "Jihan Miftahul Jannah",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jihan_miftahul.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jihan_miftahul.webp"
+    },
+    {
+      "id": 133,
+      "slug": "kandiya_rafa_maulidita",
+      "name": "Kandiya Rafa Maulidita",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "kandiya_rafa.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/kandiya_rafa.webp"
+    },
+    {
+      "id": 134,
+      "slug": "putri_cahyaning_anggraini",
+      "name": "Putri Cahyaning Anggraini",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "putri_cahyaning.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/putri_cahyaning.webp"
+    },
+    {
+      "id": 135,
+      "slug": "rinanda_syahputri",
+      "name": "Rinanda Syahputri",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "rinanda_syahputri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/rinanda_syahputri.webp"
+    },
+    {
+      "id": 136,
+      "slug": "riska_amelia_putri",
+      "name": "Riska Amelia Putri",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "riska_amelia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/riska_amelia.webp"
+    },
+    {
+      "id": 137,
+      "slug": "shalza_grasita",
+      "name": "Shalza Grasita",
+      "generation": 6,
+      "graduated": true,
+      "trainee": false,
+      "picture": "shalza_grasita.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shalza_grasita.webp"
+    },
+    {
+      "id": 138,
+      "slug": "angelina_christy",
+      "name": "Angelina Christy",
+      "generation": 7,
+      "graduated": false,
+      "trainee": false,
+      "picture": "angelina_christy.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/angelina_christy.webp"
+    },
+    {
+      "id": 139,
+      "slug": "azizi_asadel",
+      "name": "Azizi Asadel",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "azizi_asadel.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/azizi_asadel.webp"
+    },
+    {
+      "id": 140,
+      "slug": "dhea_angelia",
+      "name": "Dhea Angelia",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "dhea_angelia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/dhea_angelia.webp"
+    },
+    {
+      "id": 141,
+      "slug": "febriola_sinambela",
+      "name": "Febriola Sinambela",
+      "generation": 7,
+      "graduated": false,
+      "trainee": false,
+      "picture": "febriola_sinambela.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/febriola_sinambela.webp"
+    },
+    {
+      "id": 142,
+      "slug": "freya_jayawardana",
+      "name": "Freya Jayawardana",
+      "generation": 7,
+      "graduated": false,
+      "trainee": false,
+      "picture": "freya_jayawardana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/freya_jayawardana.webp"
+    },
+    {
+      "id": 143,
+      "slug": "helisma_putri",
+      "name": "Helisma Putri",
+      "generation": 7,
+      "graduated": false,
+      "trainee": false,
+      "picture": "helisma_putri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/helisma_putri.webp"
+    },
+    {
+      "id": 144,
+      "slug": "jessica_chandra",
+      "name": "Jessica Chandra",
+      "generation": 7,
+      "graduated": false,
+      "trainee": false,
+      "picture": "jessica_chandra.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jessica_chandra.webp"
+    },
+    {
+      "id": 145,
+      "slug": "jesslyn_callista",
+      "name": "Jesslyn Callista",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jesslyn_callista.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jesslyn_callista.webp"
+    },
+    {
+      "id": 146,
+      "slug": "mutiara_azzahra",
+      "name": "Mutiara Azzahra",
+      "generation": 7,
+      "graduated": false,
+      "trainee": false,
+      "picture": "mutiara_azzahra.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/mutiara_azzahra.webp"
+    },
+    {
+      "id": 147,
+      "slug": "yessica_tamara",
+      "name": "Yessica Tamara",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "yessica_tamara.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/yessica_tamara.webp"
+    },
+    {
+      "id": 148,
+      "slug": "aiko_harumi",
+      "name": "Aiko Harumi",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "aiko_harumi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aiko_harumi.webp"
+    },
+    {
+      "id": 149,
+      "slug": "aurel_mayori",
+      "name": "Aurel Mayori",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "aurel_mayori.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aurel_mayori.webp"
+    },
+    {
+      "id": 150,
+      "slug": "calista_lea",
+      "name": "Calista Lea",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "calista_lea.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/calista_lea.webp"
+    },
+    {
+      "id": 151,
+      "slug": "febi_komaril",
+      "name": "Febi Komaril",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "febi_komaril.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/febi_komaril.webp"
+    },
+    {
+      "id": 152,
+      "slug": "febrina_diponegoro",
+      "name": "Febrina Diponegoro",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "febrina_diponegoro.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/febrina_diponegoro.webp"
+    },
+    {
+      "id": 153,
+      "slug": "gabriel_angelina",
+      "name": "Gabriel Angelina",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "gabriel_angelina.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/gabriel_angelina.webp"
+    },
+    {
+      "id": 154,
+      "slug": "kanya_caya",
+      "name": "Kanya Caya",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "kanya_caya.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/kanya_caya.webp"
+    },
+    {
+      "id": 155,
+      "slug": "nabila_fitriana",
+      "name": "Nabila Fitriana",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nabila_fitriana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nabila_fitriana.webp"
+    },
+    {
+      "id": 156,
+      "slug": "rifa_fatmasari",
+      "name": "Rifa Fatmasari",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "rifa_fatmasari.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/rifa_fatmasari.webp"
+    },
+    {
+      "id": 157,
+      "slug": "viona_fadrin",
+      "name": "Viona Fadrin",
+      "generation": 7,
+      "graduated": true,
+      "trainee": false,
+      "picture": "viona_fadrin.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/viona_fadrin.webp"
+    },
+    {
+      "id": 158,
+      "slug": "cornelia_vanisa",
+      "name": "Cornelia Vanisa",
+      "generation": 8,
+      "graduated": false,
+      "trainee": false,
+      "picture": "cornelia_vanisa.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cornelia_vanisa.webp"
+    },
+    {
+      "id": 159,
+      "slug": "fiony_alveria_tantri",
+      "name": "Fiony Alveria Tantri",
+      "generation": 8,
+      "graduated": false,
+      "trainee": false,
+      "picture": "fiony_alveria.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/fiony_alveria.webp"
+    },
+    {
+      "id": 160,
+      "slug": "flora_shafiq",
+      "name": "Flora Shafiq",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "flora_shafiq.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/flora_shafiq.webp"
+    },
+    {
+      "id": 161,
+      "slug": "lulu_salsabila",
+      "name": "Lulu Salsabila",
+      "generation": 8,
+      "graduated": false,
+      "trainee": false,
+      "picture": "lulu_salsabila.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/lulu_salsabila.webp"
+    },
+    {
+      "id": 162,
+      "slug": "reva_fidela",
+      "name": "Reva Fidela",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "reva_fidela.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/reva_fidela.webp"
+    },
+    {
+      "id": 163,
+      "slug": "amanina_afiqah",
+      "name": "Amanina Afiqah",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "amanina_afiqah.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/amanina_afiqah.webp"
+    },
+    {
+      "id": 164,
+      "slug": "amirah_fatin",
+      "name": "Amirah Fatin",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "amirah_fatin.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/amirah_fatin.webp"
+    },
+    {
+      "id": 165,
+      "slug": "cindy_nugroho",
+      "name": "Cindy Nugroho",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "cindy_nugroho.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cindy_nugroho.webp"
+    },
+    {
+      "id": 166,
+      "slug": "devytha_maharani",
+      "name": "Devytha Maharani",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "devytha_maharani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/devytha_maharani.webp"
+    },
+    {
+      "id": 167,
+      "slug": "eriena_kartika",
+      "name": "Eriena Kartika",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "eriena_kartika.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/eriena_kartika.webp"
+    },
+    {
+      "id": 168,
+      "slug": "gabriella_stevany",
+      "name": "Gabriella Stevany",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "gabriella_stevany.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/gabriella_stevany.webp"
+    },
+    {
+      "id": 169,
+      "slug": "keisya_ramadhani",
+      "name": "Keisya Ramadhani",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "keisya_ramadhani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/keisya_ramadhani.webp"
+    },
+    {
+      "id": 170,
+      "slug": "nyimas_ratu_rafa",
+      "name": "Nyimas Ratu Rafa",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nyimas_ratu_rafa.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nyimas_ratu_rafa.webp"
+    },
+    {
+      "id": 171,
+      "slug": "pamela_krysanthe",
+      "name": "Pamela Krysanthe",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "pamela_krysanthe.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/pamela_krysanthe.webp"
+    },
+    {
+      "id": 172,
+      "slug": "reva_adriana",
+      "name": "Reva Adriana",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "reva_adriana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/reva_adriana.webp"
+    },
+    {
+      "id": 173,
+      "slug": "salma_annisa",
+      "name": "Salma Annisa",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "salma_annisa.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/salma_annisa.webp"
+    },
+    {
+      "id": 174,
+      "slug": "umega_maulana",
+      "name": "Umega Maulana",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "umega_maulana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/umega_maulana.webp"
+    },
+    {
+      "id": 175,
+      "slug": "zahra_nur",
+      "name": "Zahra Nur",
+      "generation": 8,
+      "graduated": true,
+      "trainee": false,
+      "picture": "zahra_nur.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/zahra_nur.webp"
+    },
+    {
+      "id": 176,
+      "slug": "adzana_shaliha",
+      "name": "Adzana Shaliha",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "adzana_shaliha.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/adzana_shaliha.webp"
+    },
+    {
+      "id": 177,
+      "slug": "indah_cahya",
+      "name": "Indah Cahya",
+      "generation": 9,
+      "graduated": false,
+      "trainee": false,
+      "picture": "indah_cahya.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/indah_cahya.webp"
+    },
+    {
+      "id": 178,
+      "slug": "kathrina_irene",
+      "name": "Kathrina Irene",
+      "generation": 9,
+      "graduated": false,
+      "trainee": false,
+      "picture": "kathrina_irene.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/kathrina_irene.webp"
+    },
+    {
+      "id": 179,
+      "slug": "marsha_lenathea",
+      "name": "Marsha Lenathea",
+      "generation": 9,
+      "graduated": false,
+      "trainee": false,
+      "picture": "marsha_lenathea.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/marsha_lenathea.webp"
+    },
+    {
+      "id": 180,
+      "slug": "caithlyn_gwyneth",
+      "name": "Caithlyn Gwyneth",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "caithlyn_gwyneth.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/caithlyn_gwyneth.webp"
+    },
+    {
+      "id": 181,
+      "slug": "chalista_ellysia",
+      "name": "Chalista Ellysia",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "chalista_ellysia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/chalista_ellysia.webp"
+    },
+    {
+      "id": 182,
+      "slug": "christabel_jocelyn",
+      "name": "Christabel Jocelyn",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "christabel_jocelyn.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/christabel_jocelyn.webp"
+    },
+    {
+      "id": 183,
+      "slug": "iris_vevina_prasetio",
+      "name": "Iris Vevina Prasetio",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "iris_vevina_prasetio.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/iris_vevina_prasetio.webp"
+    },
+    {
+      "id": 184,
+      "slug": "nabila_gusmarlia",
+      "name": "Nabila Gusmarlia",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "nabila_gusmarlia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nabila_gusmarlia.webp"
+    },
+    {
+      "id": 185,
+      "slug": "olivia_payten",
+      "name": "Olivia Payten",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "olivia_payten.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/olivia_payten.webp"
+    },
+    {
+      "id": 186,
+      "slug": "putri_elzahra",
+      "name": "Putri Elzahra",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "putri_elzahra.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/putri_elzahra.webp"
+    },
+    {
+      "id": 187,
+      "slug": "shinta_devi",
+      "name": "Shinta Devi",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "shinta_devi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shinta_devi.webp"
+    },
+    {
+      "id": 188,
+      "slug": "tiara_sasi",
+      "name": "Tiara Sasi",
+      "generation": 9,
+      "graduated": true,
+      "trainee": false,
+      "picture": "tiara_sasi.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/tiara_sasi.webp"
+    },
+    {
+      "id": 189,
+      "slug": "alia_giselle",
+      "name": "Alia Giselle",
+      "generation": 10,
+      "graduated": true,
+      "trainee": false,
+      "picture": "alia_giselle.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/alia_giselle.jpg"
+    },
+    {
+      "id": 190,
+      "slug": "amanda_sukma",
+      "name": "Amanda Sukma",
+      "generation": 10,
+      "graduated": true,
+      "trainee": false,
+      "picture": "amanda_sukma.jpg",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/amanda_sukma.jpg"
+    },
+    {
+      "id": 191,
+      "slug": "aurellia",
+      "name": "Aurellia",
+      "generation": 10,
+      "graduated": false,
+      "trainee": false,
+      "picture": "aurellia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aurellia.webp"
+    },
+    {
+      "id": 192,
+      "slug": "callista_alifia",
+      "name": "Callista Alifia",
+      "generation": 10,
+      "graduated": true,
+      "trainee": false,
+      "picture": "callista_alifia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/callista_alifia.webp"
+    },
+    {
+      "id": 193,
+      "slug": "gabriela_abigail",
+      "name": "Gabriela Abigail",
+      "generation": 10,
+      "graduated": false,
+      "trainee": false,
+      "picture": "gabriela_abigail.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/gabriela_abigail.webp"
+    },
+    {
+      "id": 194,
+      "slug": "indira_seruni",
+      "name": "Indira Seruni",
+      "generation": 10,
+      "graduated": true,
+      "trainee": false,
+      "picture": "indira_seruni.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/indira_seruni.webp"
+    },
+    {
+      "id": 195,
+      "slug": "jesslyn_elly",
+      "name": "Jesslyn Elly",
+      "generation": 10,
+      "graduated": false,
+      "trainee": false,
+      "picture": "jesslyn_elly.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jesslyn_elly.webp"
+    },
+    {
+      "id": 196,
+      "slug": "raisha_syifa",
+      "name": "Raisha Syifa",
+      "generation": 10,
+      "graduated": false,
+      "trainee": false,
+      "picture": "raisha_syifa.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/raisha_syifa.webp"
+    },
+    {
+      "id": 197,
+      "slug": "abieza_syabira",
+      "name": "Abieza Syabira",
+      "generation": 10,
+      "graduated": true,
+      "picture": "abieza_syabira.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/abieza_syabira.webp"
+    },
+    {
+      "id": 198,
+      "slug": "danessa_valerie_hertanto",
+      "name": "Danessa Valerie Hertanto",
+      "generation": 10,
+      "graduated": true,
+      "picture": "danessa_valerie.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/danessa_valerie.webp"
+    },
+    {
+      "id": 199,
+      "slug": "naura_safinatunnajah",
+      "name": "Naura Safinatunnajah",
+      "generation": 10,
+      "graduated": true,
+      "picture": "naura_safinatunnajah.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/naura_safinatunnajah.webp"
+    },
+    {
+      "id": 200,
+      "slug": "alya_amanda",
+      "name": "Alya Amanda",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "alya_amanda.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/alya_amanda.webp"
+    },
+    {
+      "id": 201,
+      "slug": "anindya_ramadhani",
+      "name": "Anindya Ramadhani",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "anindya_ramadhani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/anindya_ramadhani.webp"
+    },
+    {
+      "id": 202,
+      "slug": "aulia_asyira",
+      "name": "Aulia Asyira",
+      "generation": 11,
+      "graduated": true,
+      "trainee": false,
+      "picture": "aulia_asyira.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aulia_asyira.webp"
+    },
+    {
+      "id": 203,
+      "slug": "cathleen_nixie",
+      "name": "Cathleen Nixie",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "cathleen_nixie.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cathleen_nixie.webp"
+    },
+    {
+      "id": 204,
+      "slug": "celline_thefani",
+      "name": "Celline Thefani",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "celline_thefani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/celline_thefani.webp"
+    },
+    {
+      "id": 205,
+      "slug": "chelsea_davina",
+      "name": "Chelsea Davina",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "chelsea_davina.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/chelsea_davina.webp"
+    },
+    {
+      "id": 206,
+      "slug": "cynthia_yaputera",
+      "name": "Cynthia Yaputera",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "cynthia_yaputera.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cynthia_yaputera.webp"
+    },
+    {
+      "id": 207,
+      "slug": "dena_natalia",
+      "name": "Dena Natalia",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "dena_natalia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/dena_natalia.webp"
+    },
+    {
+      "id": 208,
+      "slug": "desy_natalia",
+      "name": "Desy Natalia",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "desy_natalia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/desy_natalia.webp"
+    },
+    {
+      "id": 209,
+      "slug": "gendis_mayrannisa",
+      "name": "Gendis Mayrannisa",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "gendis_mayrannisa.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/gendis_mayrannisa.webp"
+    },
+    {
+      "id": 210,
+      "slug": "grace_octaviani",
+      "name": "Grace Octaviani",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "grace_octaviani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/grace_octaviani.webp"
+    },
+    {
+      "id": 211,
+      "slug": "greesella_adhalia",
+      "name": "Greesella Adhalia",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "greesella_adhalia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/greesella_adhalia.webp"
+    },
+    {
+      "id": 212,
+      "slug": "jeane_victoria",
+      "name": "Jeane Victoria",
+      "generation": 11,
+      "graduated": true,
+      "trainee": false,
+      "picture": "jeane_victoria.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jeane_victoria.webp"
+    },
+    {
+      "id": 213,
+      "slug": "michelle_alexandra",
+      "name": "Michelle Alexandra",
+      "generation": 11,
+      "graduated": false,
+      "trainee": false,
+      "picture": "michelle_alexandra.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/michelle_alexandra.webp"
+    },
+    {
+      "id": 214,
+      "slug": "abigail_rachel",
+      "name": "Abigail Rachel",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "abigail_rachel.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/abigail_rachel.webp"
+    },
+    {
+      "id": 215,
+      "slug": "adeline_wijaya",
+      "name": "Adeline Wijaya",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "adeline_wijaya.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/adeline_wijaya.webp"
+    },
+    {
+      "id": 216,
+      "slug": "aisa_maharani",
+      "name": "Aisa Maharani",
+      "generation": 12,
+      "graduated": true,
+      "trainee": true,
+      "picture": "aisa_maharani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aisa_maharani.webp"
+    },
+    {
+      "id": 217,
+      "slug": "aurhel_alana",
+      "name": "Aurhel Alana",
+      "generation": 12,
+      "graduated": false,
+      "trainee": false,
+      "picture": "aurhel_alana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aurhel_alana.webp"
+    },
+    {
+      "id": 218,
+      "slug": "catherina_vallencia",
+      "name": "Catherina Vallencia",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "catherina_vallencia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/catherina_vallencia.webp"
+    },
+    {
+      "id": 219,
+      "slug": "fritzy_rosmerian",
+      "name": "Fritzy Rosmerian",
+      "generation": 12,
+      "graduated": false,
+      "trainee": false,
+      "picture": "fritzy_rosmerian.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/fritzy_rosmerian.webp"
+    },
+    {
+      "id": 220,
+      "slug": "hillary_abigail",
+      "name": "Hillary Abigail",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "hillary_abigail.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/hillary_abigail.webp"
+    },
+    {
+      "id": 221,
+      "slug": "jazzlyn_trisha",
+      "name": "Jazzlyn Trisha",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "jazzlyn_trisha.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jazzlyn_trisha.webp"
+    },
+    {
+      "id": 222,
+      "slug": "letycia_moreen",
+      "name": "Letycia Moreen",
+      "generation": 12,
+      "graduated": true,
+      "trainee": false,
+      "picture": "letycia_moreen.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/letycia_moreen.webp"
+    },
+    {
+      "id": 223,
+      "slug": "michelle_levia",
+      "name": "Michelle Levia",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "michelle_levia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/michelle_levia.webp"
+    },
+    {
+      "id": 224,
+      "slug": "nayla_suji",
+      "name": "Nayla Suji",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "nayla_suji.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nayla_suji.webp"
+    },
+    {
+      "id": 225,
+      "slug": "nina_tutachia",
+      "name": "Nina Tutachia",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "nina_tutachia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nina_tutachia.webp"
+    },
+    {
+      "id": 226,
+      "slug": "oline_manuel",
+      "name": "Oline Manuel",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "oline_manuel.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/oline_manuel.webp"
+    },
+    {
+      "id": 227,
+      "slug": "regina_wilian",
+      "name": "Regina Wilian",
+      "generation": 12,
+      "graduated": true,
+      "trainee": true,
+      "picture": "regina_wilian.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/regina_wilian.webp"
+    },
+    {
+      "id": 228,
+      "slug": "ribka_budiman",
+      "name": "Ribka Budiman",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "ribka_budiman.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ribka_budiman.webp"
+    },
+    {
+      "id": 229,
+      "slug": "shabilqis_naila",
+      "name": "Shabilqis Naila",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "shabilqis_naila.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shabilqis_naila.webp"
+    },
+    {
+      "id": 230,
+      "slug": "victoria_kimberly",
+      "name": "Victoria Kimberly",
+      "generation": 12,
+      "graduated": false,
+      "trainee": true,
+      "picture": "victoria_kimberly.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/victoria_kimberly.webp"
+    },
+    {
+      "id": 231,
+      "slug": "astrella_virgiananda",
+      "name": "Astrella Virgiananda",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "astrella_virgiananda.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/astrella_virgiananda.webp"
+    },
+    {
+      "id": 232,
+      "slug": "aulia_riza",
+      "name": "Aulia Riza",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "aulia_riza.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aulia_riza.webp"
+    },
+    {
+      "id": 233,
+      "slug": "bong_aprilli",
+      "name": "Bong Aprilli",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "bong_aprilli.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/bong_aprilli.webp"
+    },
+    {
+      "id": 234,
+      "slug": "hagia_sopia",
+      "name": "Hagia Sopia",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "hagia_sopia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/hagia_sopia.webp"
+    },
+    {
+      "id": 235,
+      "slug": "humaira_ramadhani",
+      "name": "Humaira Ramadhani",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "humaira_ramadhani.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/humaira_ramadhani.webp"
+    },
+    {
+      "id": 236,
+      "slug": "jacqueline_immanuela",
+      "name": "Jacqueline Immanuela",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "jacqueline_immanuela.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jacqueline_immanuela.webp"
+    },
+    {
+      "id": 237,
+      "slug": "jemima_evodie",
+      "name": "Jemima Evodie",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "jemima_evodie.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jemima_evodie.webp"
+    },
+    {
+      "id": 238,
+      "slug": "mikaela_kusjanto",
+      "name": "Mikaela Kusjanto",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "mikaela_kusjanto.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/mikaela_kusjanto.webp"
+    },
+    {
+      "id": 239,
+      "slug": "nur_intan",
+      "name": "Nur Intan",
+      "generation": 13,
+      "graduated": false,
+      "trainee": true,
+      "picture": "nur_intan.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nur_intan.webp"
+    },
+    {
+      "id": 240,
+      "slug": "afera_thalia",
+      "name": "Afera Thalia",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "afera_thalia.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/afera_thalia.webp"
+    },
+    {
+      "id": 241,
+      "slug": "carissa_dini",
+      "name": "Carissa Dini",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "carissa_dini.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/carissa_dini.webp"
+    },
+    {
+      "id": 242,
+      "slug": "christabella_bonita",
+      "name": "Christabella Bonita",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "christabella_bonita.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/christabella_bonita.webp"
+    },
+    {
+      "id": 243,
+      "slug": "fahira_putri",
+      "name": "Fahira Putri",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "fahira_putri.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/fahira_putri.webp"
+    },
+    {
+      "id": 244,
+      "slug": "fatimah_azzahra",
+      "name": "Fatimah Azzahra",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "fatimah_azzahra.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/fatimah_azzahra.webp"
+    },
+    {
+      "id": 245,
+      "slug": "heidi_suyangga",
+      "name": "Heidi Suyangga",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "heidi_suyangga.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/heidi_suyangga.webp"
+    },
+    {
+      "id": 246,
+      "slug": "maxine_faye_lee",
+      "name": "Maxine Faye Lee",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "maxine_faye_lee.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/maxine_faye_lee.webp"
+    },
+    {
+      "id": 247,
+      "slug": "putry_jazyta",
+      "name": "Putry Jazyta",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "putry_jazyta.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/putry_jazyta.webp"
+    },
+    {
+      "id": 248,
+      "slug": "ralyne_van_irwan",
+      "name": "Ralyne Van Irwan",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "ralyne_van_irwan.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ralyne_van_irwan.webp"
+    },
+    {
+      "id": 249,
+      "slug": "sona_kalyana",
+      "name": "Sona Kalyana",
+      "generation": 14,
+      "graduated": false,
+      "trainee": true,
+      "picture": "sona_kalyana.webp",
+      "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/sona_kalyana.webp"
+    }
+  ]
+}
