@@ -1,52 +1,65 @@
 # Centralized Databases Repository
 
-Public datasets repository for bot features, tools, and web applications.
+Public dataset repository providing structured data for bot services, APIs, and web applications.
 
-## Repository Structure
+## Directory Structure
 
-### 🕌 Islamic (`islamic/`)
-- [asmaulhusna.json](islamic/asmaulhusna.json) — 99 Asmaul Husna with Arabic, Latin, and Indonesian translations.
-- [doaharian.json](islamic/doaharian.json) — Collection of daily Islamic prayers.
-- [ayatkursi.json](islamic/ayatkursi.json) — Ayat Kursi Arabic text, Latin transliteration, and meaning.
+### Islamic (`islamic/`)
+- [asmaulhusna.json](islamic/asmaulhusna.json) — 99 Asmaul Husna with Arabic script, Latin transliteration, and Indonesian translations.
+- [doaharian.json](islamic/doaharian.json) — Daily Islamic prayers and invocations.
+- [ayatkursi.json](islamic/ayatkursi.json) — Ayat Kursi in Arabic, Latin transliteration, and meaning.
 - [bacaansholat.json](islamic/bacaansholat.json) — Complete Salah recitations and guides.
-- [niatsholat.json](islamic/niatsholat.json) — Niyyah (intentions) for compulsory and sunnah prayers.
+- [niatsholat.json](islamic/niatsholat.json) — Intentions (Niyyah) for obligatory and sunnah prayers.
 - [wirid.json](islamic/wirid.json) — Post-prayer dhikr and wirid recitations.
 - [tahlil.json](islamic/tahlil.json) — Complete Tahlil sequence and readings.
 
-### 🌸 JKT48 (`jkt48/`)
-- **[all_members.json](jkt48/all_members.json)** — Complete dataset of **249 JKT48 members (Generation 1 to Generation 14)**, including both active members and graduated alumni. Each record contains:
-  - `id`: Sequential ID
-  - `slug`: URL/ID slug
+### JKT48 (`jkt48/`)
+- **[all_members.json](jkt48/all_members.json)** — Complete historical dataset of **249 JKT48 members (Generation 1 to Generation 14)**, containing 58 active members and 191 graduated alumni. Schema:
+  - `id`: Unique identifier
+  - `slug`: Member URL slug
   - `name`: Full member name
-  - `generation`: Debut generation (1–14)
-  - `graduated`: Boolean graduation status
-  - `trainee`: Trainee status
-  - `picture`: Relative photo filename
-  - `image_url`: Direct raw CDN URL to member photo
-- **[member.json](jkt48/member.json)** — Detailed dataset of active members with social links, jikoshoukai, and team groupings (used by bots and OshiMatch).
+  - `generation`: Debut generation number (1–14)
+  - `graduated`: Boolean flag indicating graduation status
+  - `trainee`: Boolean flag indicating trainee status
+  - `team`: Team assignment (`DREAM`, `LOVE`, `PASSION`, `TRAINEE`, `EX-MEMBER`)
+  - `picture`: Local filename in `static/members/`
+  - `image_url`: Raw CDN URL to member photo
+- **[member.json](jkt48/member.json)** — Dataset of all 58 currently active members categorized across Team Dream (12), Team Love (13), Team Passion (15), and Trainee (18). Includes full profile metadata, birth dates, zodiac signs, social media handles, and jikoshoukai catchphrases.
 - **`static/members/`** — Optimized WebP/JPG photo assets for all 249 members.
 
-### 📸 Media & Asupan (`asupan/`)
-- [cecan.json](asupan/cecan.json) — Curated aesthetic photo dataset.
+### Media (`asupan/`)
+- [cecan.json](asupan/cecan.json) — Curated photo dataset.
 
 ---
 
-## ⚡ Automated JKT48 Member Sync
+## Automated Member Synchronization
 
-This repository includes an automated sync script (`scripts/sync_jkt48_members.js`):
-- **Schedule**: Runs automatically every week (checks official API).
-- **Execution**: Can be executed on-demand via `node scripts/sync_jkt48_members.js`.
-- **Sync Logic**: Checks official API endpoints for newly debuted members or new generations (e.g. Gen 15+), automatically downloads their photos into `jkt48/static/members/`, appends new records to `all_members.json`, and commits back to `master`.
+This repository includes automated maintenance scripts located in `scripts/`:
+
+1. **`scripts/sync_member_json.js`**:
+   - Synchronizes `jkt48/member.json` and updates `all_members.json` with active status.
+   - Detects newly graduated members and updates team rosters.
+   - Preserves manual graduation overrides via `KNOWN_GRADUATED_NAMES`.
+
+2. **`scripts/sync_jkt48_members.js`**:
+   - Checks upstream sources for new debut generations (e.g., Gen 15+).
+   - Downloads official photo assets into `jkt48/static/members/`.
+   - Automatically appends new member records into `jkt48/all_members.json`.
 
 ---
 
-## 🌐 Usage in Web & Vercel Applications
+## Usage Example
 
-To consume the latest dataset in frontend apps (e.g., Vercel, Node.js, static sites):
+To fetch the datasets directly in web or backend applications:
 
 ```javascript
-// Fetch complete 249 members dataset (Gen 1-14+)
+// Fetch complete member dataset (active and alumni)
 const response = await fetch('https://raw.githubusercontent.com/nzl404/databases/master/jkt48/all_members.json');
 const data = await response.json();
-console.log(`Total Members: ${data.total}`);
+console.log(`Total Records: ${data.total}`);
+
+// Fetch active members with detailed metadata
+const activeResponse = await fetch('https://raw.githubusercontent.com/nzl404/databases/master/jkt48/member.json');
+const activeData = await activeResponse.json();
+console.log(`Active Members: ${activeData.total}`);
 ```
