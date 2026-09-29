@@ -44,28 +44,60 @@ function getZodiac(month, day) {
 async function fetchAllActiveMembers() {
   let page = 1;
   const members = [];
+  let useJinaFallback = false;
+
   while (true) {
     try {
-      const res = await fetch(`https://mypage48.com/api/members?page=${page}&limit=30`, {
+      let targetUrl = `https://mypage48.com/api/members?page=${page}&limit=30`;
+      if (useJinaFallback) {
+        targetUrl = `https://r.jina.ai/${targetUrl}`;
+      }
+
+      const res = await fetch(targetUrl, {
         headers: {
           'Accept': 'application/json, text/plain, */*',
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
           'Referer': 'https://mypage48.com/',
           'Origin': 'https://mypage48.com'
         },
-        signal: AbortSignal.timeout(15000)
+        signal: AbortSignal.timeout(20000)
       });
+
       if (!res.ok) {
-        console.warn(`[Sync] Upstream HTTP response not OK on page ${page}: ${res.status} ${res.statusText}`);
+        console.warn(`[Sync] Upstream response not OK on page ${page}: ${res.status} ${res.statusText}`);
+        if (!useJinaFallback && res.status === 403) {
+          console.log('[Sync] Cloudflare 403 detected. Switching to Jina Reader bypass fallback...');
+          useJinaFallback = true;
+          continue;
+        }
         break;
       }
-      const json = await res.json();
+
+      let json;
+      if (useJinaFallback) {
+        const text = await res.text();
+        const jsonStart = text.indexOf('{"data":');
+        if (jsonStart !== -1) {
+          json = JSON.parse(text.slice(jsonStart));
+        } else {
+          console.warn('[Sync] Failed to parse JSON from Jina Reader output.');
+          break;
+        }
+      } else {
+        json = await res.json();
+      }
+
       const list = json.data || [];
       members.push(...list);
       if (!json.meta || page >= json.meta.last_page) break;
       page++;
     } catch (err) {
       console.warn(`[Sync] Warning on page ${page}:`, err.message);
+      if (!useJinaFallback) {
+        console.log('[Sync] Direct request error. Retrying with Jina Reader bypass...');
+        useJinaFallback = true;
+        continue;
+      }
       break;
     }
   }
