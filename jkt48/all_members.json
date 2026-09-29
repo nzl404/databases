@@ -2168,7 +2168,8 @@
       "graduated": true,
       "picture": "abieza_syabira.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/abieza_syabira.webp",
-      "team": "EX-MEMBER"
+      "team": "EX-MEMBER",
+      "trainee": false
     },
     {
       "id": 198,
@@ -2178,7 +2179,8 @@
       "graduated": true,
       "picture": "danessa_valerie.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/danessa_valerie.webp",
-      "team": "EX-MEMBER"
+      "team": "EX-MEMBER",
+      "trainee": false
     },
     {
       "id": 199,
@@ -2188,7 +2190,8 @@
       "graduated": true,
       "picture": "naura_safinatunnajah.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/naura_safinatunnajah.webp",
-      "team": "EX-MEMBER"
+      "team": "EX-MEMBER",
+      "trainee": false
     },
     {
       "id": 200,
@@ -2228,11 +2231,11 @@
       "slug": "cathleen_nixie",
       "name": "Cathleen Nixie",
       "generation": 11,
-      "graduated": false,
+      "graduated": true,
       "trainee": false,
       "picture": "cathleen_nixie.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/cathleen_nixie.webp",
-      "team": "LOVE"
+      "team": "EX-MEMBER"
     },
     {
       "id": 204,
@@ -2250,11 +2253,11 @@
       "slug": "chelsea_davina",
       "name": "Chelsea Davina",
       "generation": 11,
-      "graduated": false,
+      "graduated": true,
       "trainee": false,
       "picture": "chelsea_davina.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/chelsea_davina.webp",
-      "team": "DREAM"
+      "team": "EX-MEMBER"
     },
     {
       "id": 206,
@@ -2294,11 +2297,11 @@
       "slug": "gendis_mayrannisa",
       "name": "Gendis Mayrannisa",
       "generation": 11,
-      "graduated": false,
+      "graduated": true,
       "trainee": false,
       "picture": "gendis_mayrannisa.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/gendis_mayrannisa.webp",
-      "team": "DREAM"
+      "team": "EX-MEMBER"
     },
     {
       "id": 210,
@@ -2350,7 +2353,7 @@
       "name": "Abigail Rachel",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "abigail_rachel.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/abigail_rachel.webp",
       "team": "PASSION"
@@ -2361,7 +2364,7 @@
       "name": "Adeline Wijaya",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "adeline_wijaya.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/adeline_wijaya.webp",
       "team": "DREAM"
@@ -2372,7 +2375,7 @@
       "name": "Aisa Maharani",
       "generation": 12,
       "graduated": true,
-      "trainee": true,
+      "trainee": false,
       "picture": "aisa_maharani.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aisa_maharani.webp",
       "team": "EX-MEMBER"
@@ -2394,7 +2397,7 @@
       "name": "Catherina Vallencia",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "catherina_vallencia.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/catherina_vallencia.webp",
       "team": "PASSION"
@@ -2416,7 +2419,7 @@
       "name": "Hillary Abigail",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "hillary_abigail.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/hillary_abigail.webp",
       "team": "LOVE"
@@ -2427,7 +2430,7 @@
       "name": "Jazzlyn Trisha",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "jazzlyn_trisha.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/jazzlyn_trisha.webp",
       "team": "LOVE"
@@ -2449,7 +2452,7 @@
       "name": "Michelle Levia",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "michelle_levia.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/michelle_levia.webp",
       "team": "PASSION"
@@ -2460,7 +2463,7 @@
       "name": "Nayla Suji",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "nayla_suji.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nayla_suji.webp",
       "team": "LOVE"
@@ -2471,7 +2474,7 @@
       "name": "Nina Tutachia",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "nina_tutachia.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/nina_tutachia.webp",
       "team": "DREAM"
@@ -2482,7 +2485,7 @@
       "name": "Oline Manuel",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "oline_manuel.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/oline_manuel.webp",
       "team": "DREAM"
@@ -2493,7 +2496,7 @@
       "name": "Regina Wilian",
       "generation": 12,
       "graduated": true,
-      "trainee": true,
+      "trainee": false,
       "picture": "regina_wilian.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/regina_wilian.webp",
       "team": "EX-MEMBER"
@@ -2504,7 +2507,7 @@
       "name": "Ribka Budiman",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "ribka_budiman.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/ribka_budiman.webp",
       "team": "PASSION"
@@ -2515,7 +2518,7 @@
       "name": "Shabilqis Naila",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "shabilqis_naila.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/shabilqis_naila.webp",
       "team": "DREAM"
@@ -2526,7 +2529,7 @@
       "name": "Victoria Kimberly",
       "generation": 12,
       "graduated": false,
-      "trainee": true,
+      "trainee": false,
       "picture": "victoria_kimberly.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/victoria_kimberly.webp",
       "team": "PASSION"
@@ -2547,11 +2550,11 @@
       "slug": "aulia_riza",
       "name": "Aulia Riza",
       "generation": 13,
-      "graduated": false,
-      "trainee": true,
+      "graduated": true,
+      "trainee": false,
       "picture": "aulia_riza.webp",
       "image_url": "https://raw.githubusercontent.com/nzl404/databases/master/jkt48/static/members/aulia_riza.webp",
-      "team": "TRAINEE"
+      "team": "EX-MEMBER"
     },
     {
       "id": 233,
