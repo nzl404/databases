@@ -24,7 +24,11 @@ const KNOWN_GRADUATED_NAMES = new Set([
   'cathleennixie',
   'chelseadavina',
   'gendismayrannisa',
-  'auliariza'
+  'auliariza',
+  'ishakirana',
+  'mauranilambari',
+  'piameraleo',
+  'samimaono'
 ]);
 
 function getZodiac(month, day) {
@@ -107,12 +111,6 @@ async function syncMembers() {
   const removedMembers = [];
 
   for (const m of currentMembers) {
-    // Keep JKT48_VIRTUAL without checking theater API
-    if (m.team === 'JKT48_VIRTUAL') {
-      remainingMembers.push(m);
-      continue;
-    }
-
     const norm = normalizeName(m.name);
     // Check if still in official active list and not in known graduated list
     const isStillActive = !KNOWN_GRADUATED_NAMES.has(norm) && (
@@ -240,7 +238,7 @@ async function syncMembers() {
   }
 
   // 3. RECOMPUTE TEAM COUNTS AND TOTAL
-  const teamCounts = { DREAM: 0, LOVE: 0, PASSION: 0, TRAINEE: 0, JKT48_VIRTUAL: 0 };
+  const teamCounts = { DREAM: 0, LOVE: 0, PASSION: 0, TRAINEE: 0 };
   remainingMembers.forEach(m => {
     if (teamCounts[m.team] !== undefined) {
       teamCounts[m.team]++;
@@ -250,7 +248,7 @@ async function syncMembers() {
   });
 
   // Sort members cleanly by team order, then by name
-  const teamOrder = { DREAM: 1, LOVE: 2, PASSION: 3, TRAINEE: 4, JKT48_VIRTUAL: 5 };
+  const teamOrder = { DREAM: 1, LOVE: 2, PASSION: 3, TRAINEE: 4 };
   remainingMembers.sort((a, b) => {
     const oA = teamOrder[a.team] || 99;
     const oB = teamOrder[b.team] || 99;
